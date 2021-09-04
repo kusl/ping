@@ -26,7 +26,9 @@ While ($True) {
             Get-Date | Out-File -Append ping$key.txt;
             ping /n $count /l $i $($dns.Item($key)) | Out-File -Append ping$key.txt;
         }
+        Get-Date;
         git add .;
-        git commit -m "add ping $i" -m Get-Date;
+        git commit -m "add ping $i";
+        git push origin master;
     }
 }

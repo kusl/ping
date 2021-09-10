@@ -1,14 +1,12 @@
-753
+754
 
-Friday, September 10, 2021 11:58:58 AM
+Friday, September 10, 2021 12:16:26 PM
 
 
-Pinging 149.112.112.112 with 753 bytes of data:
+Pinging 149.112.112.112 with 754 bytes of data:
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 174.51.38.207: Destination host unreachable.
 Request timed out.
 Reply from 174.51.38.207: Destination host unreachable.
 Request timed out.
@@ -24,6 +22,8 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 192.168.1.1: Destination net unreachable.
+Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),
+    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),

@@ -1,29 +1,31 @@
-865
+866
 
-Saturday, November 20, 2021 10:32:43 PM
+Saturday, November 20, 2021 10:37:58 PM
 
 
-Pinging 1.1.1.1 with 865 bytes of data:
-Reply from 174.51.38.207: Destination host unreachable.
+Pinging 1.1.1.1 with 866 bytes of data:
+Reply from 1.1.1.1: bytes=866 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=12ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=16ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=14ms TTL=55
 Request timed out.
-Request timed out.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 1.1.1.1: bytes=866 time=15ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=25ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=42ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=22ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=14ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=17ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=12ms TTL=55
+Reply from 1.1.1.1: bytes=866 time=14ms TTL=55
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 42ms, Average = 17ms

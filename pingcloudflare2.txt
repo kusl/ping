@@ -1,31 +1,31 @@
-865
+866
 
-Saturday, November 20, 2021 10:33:50 PM
+Saturday, November 20, 2021 10:38:21 PM
 
 
-Pinging 1.0.0.1 with 865 bytes of data:
-Reply from 174.51.38.207: Destination host unreachable.
+Pinging 1.0.0.1 with 866 bytes of data:
+Reply from 1.0.0.1: bytes=866 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=31ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=54ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=13ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=17ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=12ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=30ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=17ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=15ms TTL=55
 Request timed out.
-Request timed out.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Request timed out.
-Reply from 174.51.38.207: Destination host unreachable.
-Reply from 1.0.0.1: bytes=865 time=1204ms TTL=55
-Reply from 1.0.0.1: bytes=865 time=423ms TTL=55
-Reply from 1.0.0.1: bytes=865 time=31ms TTL=55
-Reply from 1.0.0.1: bytes=865 time=15ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=23ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=14ms TTL=55
+Reply from 1.0.0.1: bytes=866 time=15ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 1204ms, Average = 418ms
+    Minimum = 12ms, Maximum = 54ms, Average = 18ms

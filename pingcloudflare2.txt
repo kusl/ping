@@ -1,9 +1,9 @@
-62
+63
 
-Tuesday, December 7, 2021 9:36:48 PM
+Tuesday, December 7, 2021 9:40:39 PM
 
 
-Pinging 1.0.0.1 with 62 bytes of data:
+Pinging 1.0.0.1 with 63 bytes of data:
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
@@ -17,13 +17,15 @@ PING: transmit failed. General failure.
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Reply from 1.0.0.1: bytes=63 time=46ms TTL=55
+Reply from 1.0.0.1: bytes=63 time=277ms TTL=55
+Reply from 1.0.0.1: bytes=63 time=38ms TTL=55
+Reply from 1.0.0.1: bytes=63 time=54ms TTL=55
+Reply from 1.0.0.1: bytes=63 time=19ms TTL=55
+Reply from 1.0.0.1: bytes=63 time=32ms TTL=55
+Reply from 1.0.0.1: bytes=63 time=12ms TTL=55
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 277ms, Average = 68ms

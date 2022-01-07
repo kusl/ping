@@ -1,31 +1,31 @@
-1494
+1495
 
-Friday, January 7, 2022 4:57:21 AM
+Friday, January 7, 2022 5:06:49 AM
 
 
-Pinging 1.1.1.1 with 1494 bytes of data:
+Pinging 1.1.1.1 with 1495 bytes of data:
+Reply from 1.1.1.1: bytes=1495 time=46ms TTL=51
+Reply from 1.1.1.1: bytes=1495 time=35ms TTL=51
 Request timed out.
-Reply from 1.1.1.1: bytes=1494 time=54ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=42ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=35ms TTL=51
+Reply from 1.1.1.1: bytes=1495 time=41ms TTL=51
+Reply from 1.1.1.1: bytes=1495 time=57ms TTL=51
+Reply from 1.1.1.1: bytes=1495 time=45ms TTL=51
 Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=1494 time=36ms TTL=51
 Request timed out.
-Reply from 1.1.1.1: bytes=1494 time=57ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=46ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=41ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=91ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=65ms TTL=51
+Reply from 1.1.1.1: TTL expired during reassembly.
+Reply from 1.1.1.1: bytes=1495 time=36ms TTL=51
+Reply from 1.1.1.1: bytes=1495 time=65ms TTL=51
 Request timed out.
-Reply from 1.1.1.1: bytes=1494 time=41ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=51ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=41ms TTL=51
-Reply from 1.1.1.1: TTL expired during reassembly.
-Reply from 1.1.1.1: bytes=1494 time=34ms TTL=51
-Reply from 1.1.1.1: bytes=1494 time=36ms TTL=51
-Reply from 1.1.1.1: TTL expired during reassembly.
+Request timed out.
+Reply from 1.1.1.1: bytes=1495 time=44ms TTL=51
+Reply from 1.1.1.1: bytes=1495 time=46ms TTL=51
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=1495 time=38ms TTL=51
+Reply from 1.1.1.1: bytes=1495 time=46ms TTL=51
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 91ms, Average = 47ms
+    Minimum = 35ms, Maximum = 65ms, Average = 45ms

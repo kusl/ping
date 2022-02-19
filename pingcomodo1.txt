@@ -1,29 +1,31 @@
-42
+43
 
-Saturday, February 19, 2022 12:48:16 PM
+Saturday, February 19, 2022 12:53:04 PM
 
 
-Pinging 8.26.56.26 with 42 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 8.26.56.26 with 43 bytes of data:
+Reply from 8.26.56.26: bytes=43 time=12ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=11ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=14ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=11ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=9ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=15ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=16ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=15ms TTL=51
+Request timed out.
+Reply from 8.26.56.26: bytes=43 time=10ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=10ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=9ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=12ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=10ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=9ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=10ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=10ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=9ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=10ms TTL=51
+Reply from 8.26.56.26: bytes=43 time=10ms TTL=51
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 16ms, Average = 11ms

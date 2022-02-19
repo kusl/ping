@@ -1,29 +1,31 @@
-42
+43
 
-Saturday, February 19, 2022 12:47:18 PM
+Saturday, February 19, 2022 12:51:35 PM
 
 
-Pinging 149.112.112.112 with 42 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 149.112.112.112 with 43 bytes of data:
+Request timed out.
+Reply from 149.112.112.112: bytes=43 time=9ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=14ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=12ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=14ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=8ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=13ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=8ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=12ms TTL=55
+Request timed out.
+Reply from 149.112.112.112: bytes=43 time=14ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=10ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=8ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=14ms TTL=55
+Reply from 149.112.112.112: bytes=43 time=8ms TTL=55
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 15ms, Average = 11ms

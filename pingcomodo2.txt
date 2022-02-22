@@ -1,14 +1,11 @@
-48
+49
 
-Monday, February 21, 2022 10:36:29 PM
+Monday, February 21, 2022 10:54:03 PM
 
 
-Pinging 8.20.247.20 with 48 bytes of data:
+Pinging 8.20.247.20 with 49 bytes of data:
 Request timed out.
-Request timed out.
-Reply from 8.20.247.20: bytes=48 time=20ms TTL=50
-Request timed out.
-Request timed out.
+Reply from 8.20.247.20: bytes=49 time=19ms TTL=50
 Request timed out.
 Request timed out.
 Request timed out.
@@ -18,6 +15,9 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.20.247.20: bytes=49 time=16ms TTL=50
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,6 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 20ms, Average = 20ms
+    Minimum = 16ms, Maximum = 19ms, Average = 17ms

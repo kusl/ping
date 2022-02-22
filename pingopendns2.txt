@@ -1,9 +1,16 @@
-42
+43
 
-Monday, February 21, 2022 8:51:49 PM
+Monday, February 21, 2022 9:09:11 PM
 
 
-Pinging 208.67.220.220 with 42 bytes of data:
+Pinging 208.67.220.220 with 43 bytes of data:
+Reply from 208.67.220.220: bytes=43 time=15ms TTL=53
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 208.67.220.220: bytes=43 time=19ms TTL=53
+Request timed out.
+Reply from 208.67.220.220: bytes=43 time=16ms TTL=53
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,21 +18,14 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 208.67.220.220: bytes=43 time=20ms TTL=53
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 208.67.220.220: bytes=42 time=24ms TTL=53
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 208.67.220.220: bytes=42 time=20ms TTL=53
-Request timed out.
+Reply from 208.67.220.220: bytes=43 time=25ms TTL=53
 Request timed out.
 Request timed out.
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 24ms, Average = 22ms
+    Minimum = 15ms, Maximum = 25ms, Average = 19ms

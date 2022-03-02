@@ -1,9 +1,9 @@
-24
+25
 
-Wednesday, March 2, 2022 4:52:27 PM
+Wednesday, March 2, 2022 5:09:43 PM
 
 
-Pinging 8.8.8.8 with 24 bytes of data:
+Pinging 8.8.8.8 with 25 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
@@ -12,12 +12,12 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 8.8.8.8: bytes=25 time=28ms TTL=115
+Request timed out.
+Reply from 8.8.8.8: bytes=25 time=45ms TTL=115
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Reply from 8.8.8.8: bytes=24 time=19ms TTL=115
-Reply from 8.8.8.8: bytes=24 time=23ms TTL=115
 Request timed out.
 Request timed out.
 Request timed out.
@@ -28,4 +28,4 @@ Request timed out.
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 19ms, Maximum = 23ms, Average = 21ms
+    Minimum = 28ms, Maximum = 45ms, Average = 36ms

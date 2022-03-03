@@ -1,15 +1,15 @@
-177
+178
 
-Thursday, March 3, 2022 8:26:31 AM
+Thursday, March 3, 2022 8:43:34 AM
 
 
-Pinging 208.67.222.222 with 177 bytes of data:
+Pinging 208.67.222.222 with 178 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 208.67.222.222: bytes=178 time=20ms TTL=54
 Request timed out.
-Request timed out.
-Request timed out.
+Reply from 208.67.222.222: bytes=178 time=16ms TTL=54
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,4 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 16ms, Maximum = 20ms, Average = 18ms

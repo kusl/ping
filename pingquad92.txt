@@ -1,9 +1,13 @@
-176
+177
 
-Thursday, March 3, 2022 8:08:04 AM
+Thursday, March 3, 2022 8:25:00 AM
 
 
-Pinging 149.112.112.112 with 176 bytes of data:
+Pinging 149.112.112.112 with 177 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 149.112.112.112: bytes=177 time=16ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,11 +15,7 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 149.112.112.112: bytes=177 time=17ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,4 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 16ms, Maximum = 17ms, Average = 16ms

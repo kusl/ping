@@ -1,14 +1,12 @@
-176
+177
 
-Thursday, March 3, 2022 8:06:37 AM
+Thursday, March 3, 2022 8:23:29 AM
 
 
-Pinging 9.9.9.9 with 176 bytes of data:
+Pinging 9.9.9.9 with 177 bytes of data:
 Request timed out.
-Reply from 9.9.9.9: bytes=176 time=18ms TTL=55
-Reply from 9.9.9.9: bytes=176 time=130ms TTL=55
-Reply from 9.9.9.9: bytes=176 time=102ms TTL=55
 Request timed out.
+Reply from 9.9.9.9: bytes=177 time=28ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
@@ -24,8 +22,10 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=177 time=23ms TTL=55
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 18ms, Maximum = 130ms, Average = 83ms
+    Minimum = 23ms, Maximum = 28ms, Average = 25ms

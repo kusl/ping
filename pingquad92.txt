@@ -1,9 +1,9 @@
-793
+794
 
-Tuesday, March 22, 2022 10:27:29 PM
+Tuesday, March 22, 2022 10:45:51 PM
 
 
-Pinging 149.112.112.112 with 793 bytes of data:
+Pinging 149.112.112.112 with 794 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
@@ -12,18 +12,20 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+General failure.
+PING: transmit failed. General failure. 
+Reply from 149.112.112.112: bytes=794 time=60ms TTL=55
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 149.112.112.112: bytes=794 time=2149ms TTL=55
+Reply from 149.112.112.112: bytes=794 time=378ms TTL=55
+Reply from 149.112.112.112: bytes=794 time=100ms TTL=55
+Reply from 149.112.112.112: bytes=794 time=100ms TTL=55
+Reply from 149.112.112.112: bytes=794 time=96ms TTL=55
+Reply from 149.112.112.112: bytes=794 time=49ms TTL=55
+Reply from 149.112.112.112: bytes=794 time=149ms TTL=55
+Reply from 149.112.112.112: bytes=794 time=47ms TTL=55
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 47ms, Maximum = 2149ms, Average = 347ms

@@ -1,31 +1,31 @@
-312
+313
 
-Friday, March 25, 2022 8:10:06 AM
+Friday, March 25, 2022 8:16:07 AM
 
 
-Pinging 192.168.0.1 with 312 bytes of data:
-Reply from 192.168.0.1: bytes=312 time=5ms TTL=64
+Pinging 192.168.0.1 with 313 bytes of data:
 Request timed out.
-Reply from 192.168.0.1: bytes=312 time=5ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=4ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=5ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=11ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=8ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=240ms TTL=64
 Request timed out.
-Reply from 192.168.0.1: bytes=312 time=8ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=6ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=8ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=552ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=47ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=6ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=7ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=6ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=14ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=6ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=728ms TTL=64
 Request timed out.
-Reply from 192.168.0.1: bytes=312 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=312 time=36ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=7ms TTL=64
+Request timed out.
+Reply from 192.168.0.1: bytes=313 time=7ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=6ms TTL=64
+Request timed out.
+Reply from 192.168.0.1: bytes=313 time=6ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=4ms TTL=64
+Request timed out.
+Reply from 192.168.0.1: bytes=313 time=18ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=6ms TTL=64
+Reply from 192.168.0.1: bytes=313 time=5ms TTL=64
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 552ms, Average = 43ms
+    Minimum = 4ms, Maximum = 728ms, Average = 75ms

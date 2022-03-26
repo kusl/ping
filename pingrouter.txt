@@ -1,31 +1,31 @@
-500
+501
 
-Friday, March 25, 2022 9:36:35 PM
+Friday, March 25, 2022 9:45:25 PM
 
 
-Pinging 192.168.0.1 with 500 bytes of data:
+Pinging 192.168.0.1 with 501 bytes of data:
+Reply from 192.168.0.1: bytes=501 time=25ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=31ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=228ms TTL=64
 Request timed out.
-Reply from 192.168.0.1: bytes=500 time=279ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=23ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=142ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=1164ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=578ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=7ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=13ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=168ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=7ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=4ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=9ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=1518ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=265ms TTL=64
 Request timed out.
-Reply from 192.168.0.1: bytes=500 time=30ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=36ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=31ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=15ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=31ms TTL=64
-Reply from 192.168.0.1: bytes=500 time=308ms TTL=64
+Request timed out.
+Reply from 192.168.0.1: bytes=501 time=1043ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=306ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=194ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=398ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=342ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=1142ms TTL=64
+Request timed out.
+Reply from 192.168.0.1: bytes=501 time=865ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=231ms TTL=64
+Reply from 192.168.0.1: bytes=501 time=297ms TTL=64
+Request timed out.
+Reply from 192.168.0.1: bytes=501 time=5ms TTL=64
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 1164ms, Average = 158ms
+    Minimum = 5ms, Maximum = 1518ms, Average = 459ms

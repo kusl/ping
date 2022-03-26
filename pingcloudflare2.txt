@@ -1,24 +1,24 @@
-505
+506
 
-Friday, March 25, 2022 10:17:15 PM
+Friday, March 25, 2022 10:25:36 PM
 
 
-Pinging 1.0.0.1 with 505 bytes of data:
-Reply from 1.0.0.1: bytes=505 time=156ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=113ms TTL=59
-Request timed out.
-Reply from 1.0.0.1: bytes=505 time=13ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=704ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=513ms TTL=59
+Pinging 1.0.0.1 with 506 bytes of data:
+Reply from 1.0.0.1: bytes=506 time=1067ms TTL=59
+Reply from 1.0.0.1: bytes=506 time=876ms TTL=59
 Request timed out.
 Request timed out.
-Reply from 1.0.0.1: bytes=505 time=24ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=557ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=481ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=332ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=662ms TTL=59
-Reply from 1.0.0.1: bytes=505 time=529ms TTL=59
+Reply from 1.0.0.1: bytes=506 time=333ms TTL=59
+Reply from 1.0.0.1: bytes=506 time=1419ms TTL=59
+Reply from 1.0.0.1: bytes=506 time=337ms TTL=59
 Request timed out.
+Request timed out.
+Reply from 1.0.0.1: bytes=506 time=411ms TTL=59
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.0.0.1: bytes=506 time=2101ms TTL=59
+Reply from 1.0.0.1: bytes=506 time=914ms TTL=59
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,6 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 704ms, Average = 371ms
+    Minimum = 333ms, Maximum = 2101ms, Average = 932ms

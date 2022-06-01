@@ -1,31 +1,29 @@
-136
+137
 
-Wednesday, June 1, 2022 4:28:12 PM
+Wednesday, June 1, 2022 4:32:14 PM
 
 
-Pinging 8.8.8.8 with 136 bytes of data:
-Reply from 8.8.8.8: bytes=68 (sent 136) time=41ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=29ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=37ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=54ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=46ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=39ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=36ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=51ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=26ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=34ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=77ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=52ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=39ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=64ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=61ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=51ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=38ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=65ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=52ms TTL=114
-Reply from 8.8.8.8: bytes=68 (sent 136) time=50ms TTL=114
+Pinging 8.8.8.8 with 137 bytes of data:
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+Reply from 192.168.12.1: Destination net unreachable.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 26ms, Maximum = 77ms, Average = 47ms
+    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),

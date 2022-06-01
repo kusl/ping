@@ -1,29 +1,31 @@
-137
+138
 
-Wednesday, June 1, 2022 4:32:14 PM
+Wednesday, June 1, 2022 4:36:44 PM
 
 
-Pinging 8.8.8.8 with 137 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-Reply from 192.168.12.1: Destination net unreachable.
-Request timed out.
-Request timed out.
+Pinging 8.8.8.8 with 138 bytes of data:
+Reply from 8.8.8.8: bytes=68 (sent 138) time=39ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=33ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=26ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=51ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=38ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=34ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=24ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=36ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=131ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=42ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=43ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=511ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=127ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=37ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=102ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=27ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=47ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=42ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=38ms TTL=115
+Reply from 8.8.8.8: bytes=68 (sent 138) time=76ms TTL=115
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 24ms, Maximum = 511ms, Average = 75ms

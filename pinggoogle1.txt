@@ -1,29 +1,31 @@
-4
+5
 
-Tuesday, June 7, 2022 11:41:47 AM
+Tuesday, June 7, 2022 11:48:01 AM
 
 
-Pinging 8.8.8.8 with 4 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-General failure.
-General failure.
+Pinging 8.8.8.8 with 5 bytes of data:
+Reply from 8.8.8.8: bytes=5 time=53ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=49ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=48ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=33ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=45ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=38ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=46ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=36ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=37ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=31ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=32ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=45ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=44ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=31ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=32ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=44ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=65ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=33ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=37ms TTL=113
+Reply from 8.8.8.8: bytes=5 time=48ms TTL=113
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 65ms, Average = 41ms

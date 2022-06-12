@@ -1,29 +1,31 @@
-110
+111
 
-Sunday, June 12, 2022 12:12:15 AM
+Sunday, June 12, 2022 12:21:21 AM
 
 
-Pinging 1.1.1.1 with 110 bytes of data:
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
+Pinging 1.1.1.1 with 111 bytes of data:
+Reply from 1.1.1.1: bytes=111 time=19ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=62ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=68ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=89ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=97ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=45ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=42ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=46ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=40ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=142ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=36ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=178ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=65ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=45ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=90ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=29ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=54ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=50ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=36ms TTL=54
+Reply from 1.1.1.1: bytes=111 time=71ms TTL=54
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 19ms, Maximum = 178ms, Average = 65ms

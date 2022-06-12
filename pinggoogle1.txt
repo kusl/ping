@@ -1,29 +1,31 @@
-110
+111
 
-Sunday, June 12, 2022 12:15:05 AM
+Sunday, June 12, 2022 12:22:04 AM
 
 
-Pinging 8.8.8.8 with 110 bytes of data:
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
+Pinging 8.8.8.8 with 111 bytes of data:
+Reply from 8.8.8.8: bytes=68 (sent 111) time=85ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=84ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=133ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=44ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=117ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=22ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=49ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=58ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=66ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=77ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=64ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=22ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=40ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=36ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=53ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=55ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=37ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=30ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=32ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 111) time=38ms TTL=114
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 22ms, Maximum = 133ms, Average = 57ms

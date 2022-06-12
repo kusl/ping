@@ -1,29 +1,31 @@
-110
+111
 
-Sunday, June 12, 2022 12:17:40 AM
+Sunday, June 12, 2022 12:22:42 AM
 
 
-Pinging 9.9.9.9 with 110 bytes of data:
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 9.9.9.9 with 111 bytes of data:
+Reply from 9.9.9.9: bytes=111 time=33ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=45ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=26ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=50ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=37ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=30ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=59ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=52ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=39ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=32ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=32ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=35ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=42ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=40ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=34ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=31ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=27ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=60ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=50ms TTL=54
+Reply from 9.9.9.9: bytes=111 time=55ms TTL=54
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 26ms, Maximum = 60ms, Average = 40ms

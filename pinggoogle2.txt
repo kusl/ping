@@ -1,29 +1,31 @@
-110
+111
 
-Sunday, June 12, 2022 12:16:19 AM
+Sunday, June 12, 2022 12:22:23 AM
 
 
-Pinging 8.8.4.4 with 110 bytes of data:
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
+Pinging 8.8.4.4 with 111 bytes of data:
+Reply from 8.8.4.4: bytes=68 (sent 111) time=46ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=73ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=31ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=62ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=57ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=62ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=37ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=37ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=152ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=25ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=45ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=43ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=48ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=37ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=25ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=17ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=28ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=37ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=38ms TTL=114
+Reply from 8.8.4.4: bytes=68 (sent 111) time=33ms TTL=114
 
 Ping statistics for 8.8.4.4:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 152ms, Average = 46ms

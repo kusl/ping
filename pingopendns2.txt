@@ -1,29 +1,31 @@
-109
+110
 
-Sunday, June 12, 2022 12:06:20 AM
+Sunday, June 12, 2022 12:19:42 AM
 
 
-Pinging 208.67.220.220 with 109 bytes of data:
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
+Pinging 208.67.220.220 with 110 bytes of data:
+Reply from 208.67.220.220: bytes=110 time=15ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=14ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=16ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=15ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=22ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=49ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=41ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=18ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=200ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=134ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=15ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=17ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=15ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=60ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=20ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=48ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=47ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=19ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=16ms TTL=51
+Reply from 208.67.220.220: bytes=110 time=19ms TTL=51
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 200ms, Average = 40ms

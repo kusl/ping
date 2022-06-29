@@ -1,31 +1,29 @@
-18
+19
 
-Wednesday, June 29, 2022 2:35:18 AM
+Wednesday, June 29, 2022 2:42:03 AM
 
 
-Pinging 8.8.4.4 with 18 bytes of data:
-Reply from 8.8.4.4: bytes=18 time=282ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=261ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=157ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=82ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=273ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=235ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=312ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=257ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=373ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=282ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=349ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=307ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=327ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=348ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=303ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=299ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=268ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=224ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=252ms TTL=114
-Reply from 8.8.4.4: bytes=18 time=221ms TTL=114
+Pinging 8.8.4.4 with 19 bytes of data:
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
+Request timed out.
+Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.8.4.4:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 82ms, Maximum = 373ms, Average = 270ms
+    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),

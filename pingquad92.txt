@@ -1,29 +1,31 @@
 4
 
-Friday, July 1, 2022 4:46:35 AM
+Friday, July 1, 2022 5:04:18 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Reply from 192.168.12.146: Destination host unreachable.
+Reply from 149.112.112.112: bytes=4 time=51ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=26ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=26ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=37ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=19ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=22ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=26ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=280ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=22ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=23ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=12ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=154ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=198ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=253ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=13ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=55
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 11ms, Maximum = 280ms, Average = 62ms

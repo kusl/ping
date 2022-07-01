@@ -1,29 +1,31 @@
 4
 
-Friday, July 1, 2022 4:45:23 AM
+Friday, July 1, 2022 5:03:24 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-General failure.
-General failure.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 9.9.9.9: bytes=4 time=23ms TTL=55
+Reply from 9.9.9.9: bytes=4 time=24ms TTL=55
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 23ms, Maximum = 24ms, Average = 23ms

@@ -1,29 +1,31 @@
-469
+470
 
-Saturday, July 2, 2022 5:26:10 PM
+Saturday, July 2, 2022 5:31:22 PM
 
 
-Pinging 8.20.247.20 with 469 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 8.20.247.20 with 470 bytes of data:
+Reply from 8.20.247.20: bytes=470 time=410ms TTL=46
 Request timed out.
+Reply from 8.20.247.20: bytes=470 time=267ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=280ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=310ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=778ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=183ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=643ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=400ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=407ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=704ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=429ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=261ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=489ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=401ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=431ms TTL=46
 Request timed out.
-Request timed out.
-General failure.
-General failure.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
+Reply from 8.20.247.20: bytes=470 time=290ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=286ms TTL=46
+Reply from 8.20.247.20: bytes=470 time=405ms TTL=46
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 183ms, Maximum = 778ms, Average = 409ms

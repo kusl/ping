@@ -1,29 +1,31 @@
-13
+4
 
-Sunday, July 10, 2022 8:39:19 AM
+Sunday, July 10, 2022 9:09:57 AM
 
 
-Pinging 208.67.222.222 with 13 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 208.67.222.222 with 4 bytes of data:
+Reply from 208.67.222.222: bytes=4 time=33ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=30ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=43ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=43ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=24ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=44ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=40ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=19ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=48ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=42ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=29ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=23ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=45ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=30ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=117ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=32ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=43ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=39ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=32ms TTL=52
+Reply from 208.67.222.222: bytes=4 time=143ms TTL=52
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 19ms, Maximum = 143ms, Average = 44ms

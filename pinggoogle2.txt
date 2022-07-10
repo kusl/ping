@@ -1,9 +1,9 @@
-13
+4
 
-Sunday, July 10, 2022 8:38:21 AM
+Sunday, July 10, 2022 9:09:00 AM
 
 
-Pinging 8.8.4.4 with 13 bytes of data:
+Pinging 8.8.4.4 with 4 bytes of data:
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
@@ -15,15 +15,17 @@ PING: transmit failed. General failure.
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Reply from 8.8.4.4: bytes=4 time=26ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=32ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=261ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=53ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=207ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=469ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=30ms TTL=115
+Reply from 8.8.4.4: bytes=4 time=46ms TTL=115
 
 Ping statistics for 8.8.4.4:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 26ms, Maximum = 469ms, Average = 128ms

@@ -1,29 +1,31 @@
-4
+5
 
-Sunday, July 10, 2022 9:08:40 AM
+Sunday, July 10, 2022 9:12:35 AM
 
 
-Pinging 8.8.8.8 with 4 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Pinging 8.8.8.8 with 5 bytes of data:
+Reply from 8.8.8.8: bytes=5 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=46ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=32ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=55ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=50ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=36ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=42ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=41ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=27ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=35ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=51ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=53ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=42ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=47ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=48ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=51ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=81ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=75ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=78ms TTL=114
+Reply from 8.8.8.8: bytes=5 time=42ms TTL=114
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 27ms, Maximum = 81ms, Average = 49ms

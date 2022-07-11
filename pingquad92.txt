@@ -1,29 +1,31 @@
-317
+318
 
-Monday, July 11, 2022 5:36:45 AM
+Monday, July 11, 2022 5:42:14 AM
 
 
-Pinging 149.112.112.112 with 317 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 149.112.112.112 with 318 bytes of data:
+Reply from 149.112.112.112: bytes=318 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=37ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=17ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=19ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=20ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=17ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=19ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=19ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=16ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=15ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=19ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=14ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=17ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=18ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=19ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=18ms TTL=55
+Reply from 149.112.112.112: bytes=318 time=18ms TTL=55
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 37ms, Average = 18ms

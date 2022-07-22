@@ -1,31 +1,31 @@
-26
+27
 
-Friday, July 22, 2022 6:45:14 PM
+Friday, July 22, 2022 6:51:26 PM
 
 
-Pinging 1.0.0.1 with 26 bytes of data:
-Reply from 1.0.0.1: bytes=26 time=97ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=262ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=27ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=27ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=25ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=30ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=25ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=29ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=32ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=46ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=27ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=67ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=31ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=27ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=33ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=29ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=29ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=40ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=41ms TTL=53
-Reply from 1.0.0.1: bytes=26 time=31ms TTL=53
+Pinging 1.0.0.1 with 27 bytes of data:
+Request timed out.
+Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
+Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 1.0.0.1: bytes=27 time=36ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=60ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=48ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=130ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=91ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=26ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=198ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=231ms TTL=52
+Reply from 1.0.0.1: bytes=27 time=88ms TTL=52
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 262ms, Average = 47ms
+    Minimum = 26ms, Maximum = 231ms, Average = 100ms

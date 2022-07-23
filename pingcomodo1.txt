@@ -1,9 +1,16 @@
-23
+24
 
-Saturday, July 23, 2022 1:44:07 PM
+Saturday, July 23, 2022 1:53:35 PM
 
 
-Pinging 8.26.56.26 with 23 bytes of data:
+Pinging 8.26.56.26 with 24 bytes of data:
+Reply from 8.26.56.26: bytes=24 time=358ms TTL=43
+Reply from 8.26.56.26: bytes=24 time=1667ms TTL=43
+Reply from 8.26.56.26: bytes=24 time=2333ms TTL=43
+Reply from 8.26.56.26: bytes=24 time=1335ms TTL=43
+Request timed out.
+Request timed out.
+Reply from 8.26.56.26: bytes=24 time=2799ms TTL=43
 Request timed out.
 Request timed out.
 Request timed out.
@@ -12,20 +19,13 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Reply from 8.26.56.26: bytes=23 time=297ms TTL=43
-Reply from 8.26.56.26: bytes=23 time=126ms TTL=43
-Reply from 8.26.56.26: bytes=23 time=2442ms TTL=43
-Reply from 8.26.56.26: bytes=23 time=2994ms TTL=43
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 8.26.56.26: bytes=24 time=2164ms TTL=43
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 126ms, Maximum = 2994ms, Average = 1464ms
+    Minimum = 358ms, Maximum = 2799ms, Average = 1776ms

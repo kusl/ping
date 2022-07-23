@@ -1,29 +1,31 @@
-27
+28
 
-Friday, July 22, 2022 6:50:00 PM
+Friday, July 22, 2022 6:57:01 PM
 
 
-Pinging 1.1.1.1 with 27 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.146: Destination host unreachable.
+Pinging 1.1.1.1 with 28 bytes of data:
+Reply from 1.1.1.1: bytes=28 time=196ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=685ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=1065ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=505ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=435ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=394ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=265ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=262ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=190ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=677ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=137ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=424ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=648ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=527ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=780ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=323ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=130ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=1028ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=389ms TTL=52
+Reply from 1.1.1.1: bytes=28 time=229ms TTL=52
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 130ms, Maximum = 1065ms, Average = 464ms

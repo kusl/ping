@@ -1,31 +1,31 @@
-5
+6
 
-Saturday, July 23, 2022 11:43:47 AM
+Saturday, July 23, 2022 11:55:27 AM
 
 
-Pinging 1.1.1.1 with 5 bytes of data:
-Reply from 1.1.1.1: bytes=5 time=1612ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=286ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=461ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=588ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=746ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=380ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=630ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=874ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=1801ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=2428ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=1060ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=1023ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=582ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=561ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=1119ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=3110ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=1889ms TTL=52
-Reply from 1.1.1.1: bytes=5 time=2813ms TTL=52
+Pinging 1.1.1.1 with 6 bytes of data:
+Reply from 1.1.1.1: bytes=6 time=2230ms TTL=52
+Reply from 1.1.1.1: bytes=6 time=1867ms TTL=52
+Reply from 1.1.1.1: bytes=6 time=3187ms TTL=52
+Reply from 1.1.1.1: bytes=6 time=1796ms TTL=52
+Reply from 1.1.1.1: bytes=6 time=2251ms TTL=52
+Reply from 1.1.1.1: bytes=6 time=2791ms TTL=52
+Reply from 1.1.1.1: bytes=6 time=1410ms TTL=52
 Request timed out.
-Reply from 1.1.1.1: bytes=5 time=1090ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=6 time=1787ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=6 time=2796ms TTL=52
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 286ms, Maximum = 3110ms, Average = 1213ms
+    Minimum = 1410ms, Maximum = 3187ms, Average = 2235ms

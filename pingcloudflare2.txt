@@ -1,9 +1,14 @@
-25
+4
 
-Saturday, July 23, 2022 1:59:02 PM
+Saturday, July 23, 2022 5:57:09 PM
 
 
-Pinging 1.0.0.1 with 25 bytes of data:
+Pinging 1.0.0.1 with 4 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=3785ms TTL=52
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,6 +16,7 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 1.0.0.1: bytes=4 time=2944ms TTL=52
 Request timed out.
 Request timed out.
 Request timed out.
@@ -18,14 +24,8 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=25 time=3721ms TTL=52
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 3721ms, Maximum = 3721ms, Average = 3721ms
+    Minimum = 2944ms, Maximum = 3785ms, Average = 3364ms

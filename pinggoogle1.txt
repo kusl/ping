@@ -1,31 +1,31 @@
-32
+33
 
-Saturday, July 23, 2022 8:17:53 PM
+Saturday, July 23, 2022 8:23:03 PM
 
 
-Pinging 8.8.8.8 with 32 bytes of data:
-Reply from 8.8.8.8: bytes=32 time=998ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=848ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=1666ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=1049ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=778ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=1820ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=421ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=209ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=522ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=151ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=475ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=813ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=652ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=505ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=218ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=207ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=222ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=33ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=116ms TTL=113
-Reply from 8.8.8.8: bytes=32 time=53ms TTL=113
+Pinging 8.8.8.8 with 33 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.8.8.8: bytes=33 time=3952ms TTL=113
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.8.8.8: bytes=33 time=2358ms TTL=113
+Reply from 8.8.8.8: bytes=33 time=3010ms TTL=113
+Reply from 8.8.8.8: bytes=33 time=2342ms TTL=113
+Reply from 8.8.8.8: bytes=33 time=2256ms TTL=113
+Reply from 8.8.8.8: bytes=33 time=2036ms TTL=113
+Reply from 8.8.8.8: bytes=33 time=1744ms TTL=113
+Reply from 8.8.8.8: bytes=33 time=932ms TTL=113
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 33ms, Maximum = 1820ms, Average = 587ms
+    Minimum = 932ms, Maximum = 3952ms, Average = 2328ms

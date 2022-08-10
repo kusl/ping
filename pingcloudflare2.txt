@@ -1,9 +1,14 @@
-1186
+1187
 
-Wednesday, August 10, 2022 3:32:49 PM
+Wednesday, August 10, 2022 3:38:54 PM
 
 
-Pinging 1.0.0.1 with 1186 bytes of data:
+Pinging 1.0.0.1 with 1187 bytes of data:
+Request timed out.
+Reply from 1.0.0.1: bytes=1187 time=481ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=44ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=45ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=53ms TTL=52
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,21 +16,16 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=1186 time=99ms TTL=52
-Reply from 1.0.0.1: bytes=1186 time=283ms TTL=52
-Reply from 1.0.0.1: bytes=1186 time=438ms TTL=52
-Request timed out.
-Reply from 1.0.0.1: bytes=1186 time=821ms TTL=52
-Request timed out.
-Request timed out.
+Reply from 1.0.0.1: bytes=1187 time=55ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=404ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=54ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=88ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=43ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=670ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=33ms TTL=52
+Reply from 1.0.0.1: bytes=1187 time=51ms TTL=52
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 99ms, Maximum = 821ms, Average = 410ms
+    Minimum = 33ms, Maximum = 670ms, Average = 168ms

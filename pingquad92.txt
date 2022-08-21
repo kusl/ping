@@ -1,29 +1,31 @@
-199
+200
 
-Sunday, August 21, 2022 12:29:53 PM
+Sunday, August 21, 2022 12:47:24 PM
 
 
-Pinging 149.112.112.112 with 199 bytes of data:
+Pinging 149.112.112.112 with 200 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 149.112.112.112: bytes=200 time=20ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=16ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=25ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=38ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=25ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=221ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=323ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=463ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=220ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=15ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=22ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=27ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=114ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=157ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=22ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=60ms TTL=54
+Reply from 149.112.112.112: bytes=200 time=47ms TTL=54
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 15ms, Maximum = 463ms, Average = 106ms

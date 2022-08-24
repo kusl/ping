@@ -1,31 +1,31 @@
-502
+503
 
-Tuesday, August 23, 2022 8:34:10 PM
+Tuesday, August 23, 2022 8:38:23 PM
 
 
-Pinging 1.0.0.1 with 502 bytes of data:
-Reply from 1.0.0.1: bytes=502 time=45ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=75ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=56ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=85ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=35ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=74ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=70ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=59ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=55ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=40ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=67ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=81ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=78ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=63ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=59ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=75ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=72ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=64ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=45ms TTL=52
-Reply from 1.0.0.1: bytes=502 time=89ms TTL=52
+Pinging 1.0.0.1 with 503 bytes of data:
+Reply from 1.0.0.1: bytes=503 time=38ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=700ms TTL=52
+Request timed out.
+Reply from 1.0.0.1: bytes=503 time=62ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=370ms TTL=52
+Request timed out.
+Reply from 1.0.0.1: bytes=503 time=48ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=82ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=67ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=53ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=80ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=68ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=52ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=717ms TTL=52
+Request timed out.
+Reply from 1.0.0.1: bytes=503 time=59ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=296ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=53ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=80ms TTL=52
+Reply from 1.0.0.1: bytes=503 time=63ms TTL=52
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 35ms, Maximum = 89ms, Average = 64ms
+    Minimum = 38ms, Maximum = 717ms, Average = 169ms

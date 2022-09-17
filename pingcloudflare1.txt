@@ -1,29 +1,31 @@
-88
+89
 
-Saturday, September 17, 2022 11:35:31 AM
+Saturday, September 17, 2022 11:46:37 AM
 
 
-Pinging 1.1.1.1 with 88 bytes of data:
+Pinging 1.1.1.1 with 89 bytes of data:
 Request timed out.
+Reply from 1.1.1.1: bytes=89 time=2357ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1823ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1782ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1499ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=718ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=2919ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1642ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1990ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=2447ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=2826ms TTL=51
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 1.1.1.1: bytes=89 time=1721ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1362ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1834ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1393ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1819ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=1470ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=2924ms TTL=51
+Reply from 1.1.1.1: bytes=89 time=2525ms TTL=51
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 718ms, Maximum = 2924ms, Average = 1947ms

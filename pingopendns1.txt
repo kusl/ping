@@ -1,29 +1,31 @@
-1042
+1043
 
-Tuesday, September 20, 2022 2:46:23 AM
+Tuesday, September 20, 2022 2:58:37 AM
 
 
-Pinging 208.67.222.222 with 1042 bytes of data:
-Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Pinging 208.67.222.222 with 1043 bytes of data:
+Reply from 208.67.222.222: bytes=1043 time=954ms TTL=50
 Request timed out.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 208.67.222.222: bytes=1043 time=925ms TTL=50
+Reply from 208.67.222.222: bytes=1043 time=874ms TTL=50
+Reply from 208.67.222.222: bytes=1043 time=954ms TTL=50
+Reply from 208.67.222.222: bytes=1043 time=860ms TTL=50
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 208.67.222.222: bytes=1043 time=962ms TTL=50
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 860ms, Maximum = 962ms, Average = 921ms

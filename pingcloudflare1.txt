@@ -1,29 +1,31 @@
-1042
+1043
 
-Tuesday, September 20, 2022 2:41:05 AM
+Tuesday, September 20, 2022 2:50:56 AM
 
 
-Pinging 1.1.1.1 with 1042 bytes of data:
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Pinging 1.1.1.1 with 1043 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
-Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Reply from 1.1.1.1: bytes=1043 time=2662ms TTL=50
+Request timed out.
+Reply from 1.1.1.1: bytes=1043 time=3208ms TTL=50
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=1043 time=3087ms TTL=50
+Request timed out.
+Reply from 1.1.1.1: bytes=1043 time=2448ms TTL=50
+Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2448ms, Maximum = 3208ms, Average = 2851ms

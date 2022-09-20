@@ -1,29 +1,31 @@
-1042
+1043
 
-Tuesday, September 20, 2022 2:45:24 AM
+Tuesday, September 20, 2022 2:57:18 AM
 
 
-Pinging 149.112.112.112 with 1042 bytes of data:
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Pinging 149.112.112.112 with 1043 bytes of data:
+Reply from 149.112.112.112: bytes=1043 time=888ms TTL=50
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Request timed out.
+Reply from 149.112.112.112: bytes=1043 time=1039ms TTL=50
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
+Reply from 149.112.112.112: bytes=1043 time=732ms TTL=50
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
+Reply from 149.112.112.112: bytes=1043 time=934ms TTL=50
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 149.112.112.112: bytes=1043 time=1082ms TTL=50
+Request timed out.
+Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 732ms, Maximum = 1082ms, Average = 935ms

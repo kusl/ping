@@ -1,29 +1,31 @@
-1042
+1043
 
-Tuesday, September 20, 2022 2:42:51 AM
+Tuesday, September 20, 2022 2:53:49 AM
 
 
-Pinging 8.8.8.8 with 1042 bytes of data:
-Reply from 192.168.12.1: Destination net unreachable.
-Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Pinging 8.8.8.8 with 1043 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Reply from 8.8.8.8: bytes=68 (sent 1043) time=1162ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 1043) time=1131ms TTL=114
+Request timed out.
+Reply from 8.8.8.8: bytes=68 (sent 1043) time=1023ms TTL=114
 Request timed out.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Reply from 8.8.8.8: bytes=68 (sent 1043) time=1287ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 1043) time=1133ms TTL=114
+Request timed out.
+Request timed out.
+Reply from 8.8.8.8: bytes=68 (sent 1043) time=1008ms TTL=114
+Reply from 8.8.8.8: bytes=68 (sent 1043) time=1156ms TTL=114
+Request timed out.
+Request timed out.
 Request timed out.
 Request timed out.
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1008ms, Maximum = 1287ms, Average = 1128ms

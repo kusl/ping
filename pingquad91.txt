@@ -1,29 +1,31 @@
-1042
+1043
 
-Tuesday, September 20, 2022 2:44:33 AM
+Tuesday, September 20, 2022 2:56:03 AM
 
 
-Pinging 9.9.9.9 with 1042 bytes of data:
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
+Pinging 9.9.9.9 with 1043 bytes of data:
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
+Reply from 9.9.9.9: bytes=1043 time=988ms TTL=50
+Reply from 9.9.9.9: bytes=1043 time=971ms TTL=50
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
-Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=1043 time=902ms TTL=50
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=1043 time=926ms TTL=50
+Reply from 9.9.9.9: bytes=1043 time=1073ms TTL=50
+Request timed out.
+Request timed out.
+Reply from 9.9.9.9: bytes=1043 time=909ms TTL=50
 Request timed out.
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 902ms, Maximum = 1073ms, Average = 961ms

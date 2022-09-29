@@ -1,31 +1,31 @@
-1471
+1472
 
-Thursday, September 29, 2022 6:16:44 PM
+Thursday, September 29, 2022 6:22:00 PM
 
 
-Pinging 1.0.0.1 with 1471 bytes of data:
-Reply from 1.0.0.1: bytes=1471 time=138ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=69ms TTL=51
+Pinging 1.0.0.1 with 1472 bytes of data:
+Reply from 192.0.0.1: Packet needs to be fragmented but DF set.
+Reply from 1.0.0.1: bytes=1472 time=63ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=621ms TTL=51
 Request timed out.
-Reply from 1.0.0.1: bytes=1471 time=658ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=39ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=46ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=53ms TTL=51
 Request timed out.
-Reply from 1.0.0.1: bytes=1471 time=76ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=102ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=178ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=77ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=197ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=68ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=66ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=197ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=160ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=39ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=34ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=101ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=58ms TTL=51
-Reply from 1.0.0.1: bytes=1471 time=332ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=46ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=558ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=66ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=53ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=175ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=482ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=751ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=48ms TTL=51
+Reply from 1.0.0.1: bytes=1472 time=48ms TTL=51
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.0.0.1: bytes=1472 time=45ms TTL=51
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 658ms, Average = 143ms
+    Minimum = 45ms, Maximum = 751ms, Average = 218ms

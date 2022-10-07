@@ -1,29 +1,31 @@
-8
+9
 
-Friday, October 7, 2022 1:17:00 PM
+Friday, October 7, 2022 1:22:47 PM
 
 
-Pinging 1.0.0.1 with 8 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 1.0.0.1 with 9 bytes of data:
+Reply from 1.0.0.1: bytes=9 time=35ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=42ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=157ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=428ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=29ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=29ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=263ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=346ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=27ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=38ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=66ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=47ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=258ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=143ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=94ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=99ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=53ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=145ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=323ms TTL=52
+Reply from 1.0.0.1: bytes=9 time=634ms TTL=52
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 27ms, Maximum = 634ms, Average = 162ms

@@ -1,10 +1,29 @@
 
 
-Thursday, November 3, 2022 10:30:09 PM
+Thursday, November 3, 2022 10:34:42 PM
 
 PING 8.8.4.4 (8.8.4.4) 56(84) bytes of data.
-[1667536232.018467] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1667536482.107102] 64 bytes from 8.8.4.4: icmp_seq=1 ttl=113 time=22.4 ms
+[1667536483.185346] 64 bytes from 8.8.4.4: icmp_seq=2 ttl=113 time=99.9 ms
+[1667536484.117320] 64 bytes from 8.8.4.4: icmp_seq=3 ttl=113 time=30.9 ms
+[1667536485.125765] 64 bytes from 8.8.4.4: icmp_seq=4 ttl=113 time=39.3 ms
+[1667536486.112957] 64 bytes from 8.8.4.4: icmp_seq=5 ttl=113 time=25.5 ms
+[1667536487.113311] 64 bytes from 8.8.4.4: icmp_seq=6 ttl=113 time=24.9 ms
+[1667536488.112734] 64 bytes from 8.8.4.4: icmp_seq=7 ttl=113 time=23.3 ms
+[1667536489.112678] 64 bytes from 8.8.4.4: icmp_seq=8 ttl=113 time=21.9 ms
+[1667536490.113261] 64 bytes from 8.8.4.4: icmp_seq=9 ttl=113 time=21.8 ms
+[1667536491.117282] 64 bytes from 8.8.4.4: icmp_seq=10 ttl=113 time=24.9 ms
+[1667536492.117708] 64 bytes from 8.8.4.4: icmp_seq=11 ttl=113 time=23.7 ms
+[1667536493.118336] 64 bytes from 8.8.4.4: icmp_seq=12 ttl=113 time=22.9 ms
+[1667536494.159774] 64 bytes from 8.8.4.4: icmp_seq=13 ttl=113 time=63.4 ms
+[1667536495.122691] 64 bytes from 8.8.4.4: icmp_seq=14 ttl=113 time=25.3 ms
+[1667536496.130237] 64 bytes from 8.8.4.4: icmp_seq=15 ttl=113 time=31.8 ms
+[1667536497.135067] 64 bytes from 8.8.4.4: icmp_seq=16 ttl=113 time=35.6 ms
+[1667536498.138030] 64 bytes from 8.8.4.4: icmp_seq=17 ttl=113 time=36.9 ms
+[1667536499.145585] 64 bytes from 8.8.4.4: icmp_seq=18 ttl=113 time=42.5 ms
+[1667536500.152123] 64 bytes from 8.8.4.4: icmp_seq=19 ttl=113 time=47.6 ms
+[1667536501.145385] 64 bytes from 8.8.4.4: icmp_seq=20 ttl=113 time=39.2 ms
 
 --- 8.8.4.4 ping statistics ---
-20 packets transmitted, 0 received, +1 errors, 100% packet loss, time 19467ms
-
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 21.841/35.191/99.892/18.165 ms

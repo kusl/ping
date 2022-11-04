@@ -1,31 +1,29 @@
-18
-
-Friday, October 28, 2022 11:39:04 AM
 
 
-Pinging 149.112.112.112 with 18 bytes of data:
-Reply from 149.112.112.112: bytes=18 time=27ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=23ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=16ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=19ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=39ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=32ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=36ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=58ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=49ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=42ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=31ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=24ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=26ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=54ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=51ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=48ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=39ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=26ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=42ms TTL=54
-Reply from 149.112.112.112: bytes=18 time=42ms TTL=54
+Thursday, November 3, 2022 6:29:05 PM
 
-Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 58ms, Average = 36ms
+PING 149.112.112.112 (149.112.112.112) 56(84) bytes of data.
+[1667521745.250739] 64 bytes from 149.112.112.112: icmp_seq=1 ttl=54 time=28.6 ms
+[1667521746.240218] 64 bytes from 149.112.112.112: icmp_seq=2 ttl=54 time=16.4 ms
+[1667521747.250154] 64 bytes from 149.112.112.112: icmp_seq=3 ttl=54 time=24.8 ms
+[1667521748.244279] 64 bytes from 149.112.112.112: icmp_seq=4 ttl=54 time=17.0 ms
+[1667521749.249053] 64 bytes from 149.112.112.112: icmp_seq=5 ttl=54 time=20.7 ms
+[1667521750.256131] 64 bytes from 149.112.112.112: icmp_seq=6 ttl=54 time=26.0 ms
+[1667521751.274947] 64 bytes from 149.112.112.112: icmp_seq=7 ttl=54 time=43.7 ms
+[1667521752.249638] 64 bytes from 149.112.112.112: icmp_seq=8 ttl=54 time=16.6 ms
+[1667521753.249137] 64 bytes from 149.112.112.112: icmp_seq=9 ttl=54 time=14.4 ms
+[1667521754.254223] 64 bytes from 149.112.112.112: icmp_seq=10 ttl=54 time=18.0 ms
+[1667521755.254405] 64 bytes from 149.112.112.112: icmp_seq=11 ttl=54 time=17.1 ms
+[1667521756.274907] 64 bytes from 149.112.112.112: icmp_seq=12 ttl=54 time=37.3 ms
+[1667521757.254291] 64 bytes from 149.112.112.112: icmp_seq=13 ttl=54 time=15.3 ms
+[1667521758.259256] 64 bytes from 149.112.112.112: icmp_seq=14 ttl=54 time=19.1 ms
+[1667521759.260061] 64 bytes from 149.112.112.112: icmp_seq=15 ttl=54 time=18.7 ms
+[1667521760.259378] 64 bytes from 149.112.112.112: icmp_seq=16 ttl=54 time=16.2 ms
+[1667521761.275108] 64 bytes from 149.112.112.112: icmp_seq=17 ttl=54 time=30.6 ms
+[1667521762.267024] 64 bytes from 149.112.112.112: icmp_seq=18 ttl=54 time=20.8 ms
+[1667521763.284798] 64 bytes from 149.112.112.112: icmp_seq=19 ttl=54 time=36.6 ms
+[1667521764.276896] 64 bytes from 149.112.112.112: icmp_seq=20 ttl=54 time=27.0 ms
+
+--- 149.112.112.112 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 14.360/23.236/43.686/8.190 ms

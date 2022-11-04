@@ -1,4 +1,3 @@
-$max_size = 65527;
 $count = 20;
 
 $dns = [ordered]@{
@@ -19,16 +18,14 @@ $dns = [ordered]@{
 $dns
 
 While ($True) {
-    for ($i = 4; $i -lt $max_size; $i++) {
-        foreach ($key in $dns.Keys) {
-            Write-Host "${key}: $($dns.Item($key))";
-            Write-Output "$i" | Out-File ping$key.txt;
-            Get-Date | Out-File -Append ping$key.txt;
-            ping /n $count /l $i $($dns.Item($key)) | Out-File -Append ping$key.txt;
-        }
-        Get-Date;
-        git add .;
-        git commit -m "add ping $i";
-        git push origin --all;
+    foreach ($key in $dns.Keys) {
+        Write-Host "${key}: $($dns.Item($key))";
+        Write-Output "$i" | Out-File ping$key.txt;
+        Get-Date | Out-File -Append ping$key.txt;
+        ping -D -c 20 $i -v $($dns.Item($key)) | Out-File -Append ping$key.txt;
     }
+    Get-Date;
+    git add .;
+    git commit -m "add ping $i";
+    git push origin --all;
 }

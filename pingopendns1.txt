@@ -1,31 +1,29 @@
-18
-
-Friday, October 28, 2022 11:39:24 AM
 
 
-Pinging 208.67.222.222 with 18 bytes of data:
-Reply from 208.67.222.222: bytes=18 time=50ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=36ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=27ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=22ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=51ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=43ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=112ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=106ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=50ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=47ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=66ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=27ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=19ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=27ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=37ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=31ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=25ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=58ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=55ms TTL=51
-Reply from 208.67.222.222: bytes=18 time=46ms TTL=51
+Thursday, November 3, 2022 6:29:24 PM
 
-Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 19ms, Maximum = 112ms, Average = 46ms
+PING 208.67.222.222 (208.67.222.222) 56(84) bytes of data.
+[1667521764.309201] 64 bytes from 208.67.222.222: icmp_seq=1 ttl=51 time=18.0 ms
+[1667521765.313650] 64 bytes from 208.67.222.222: icmp_seq=2 ttl=51 time=21.3 ms
+[1667521766.308162] 64 bytes from 208.67.222.222: icmp_seq=3 ttl=51 time=14.4 ms
+[1667521767.308588] 64 bytes from 208.67.222.222: icmp_seq=4 ttl=51 time=13.6 ms
+[1667521768.313216] 64 bytes from 208.67.222.222: icmp_seq=5 ttl=51 time=16.7 ms
+[1667521769.315686] 64 bytes from 208.67.222.222: icmp_seq=6 ttl=51 time=18.2 ms
+[1667521770.313272] 64 bytes from 208.67.222.222: icmp_seq=7 ttl=51 time=14.8 ms
+[1667521771.323741] 64 bytes from 208.67.222.222: icmp_seq=8 ttl=51 time=24.3 ms
+[1667521772.323282] 64 bytes from 208.67.222.222: icmp_seq=9 ttl=51 time=22.4 ms
+[1667521773.323920] 64 bytes from 208.67.222.222: icmp_seq=10 ttl=51 time=22.5 ms
+[1667521774.323238] 64 bytes from 208.67.222.222: icmp_seq=11 ttl=51 time=20.2 ms
+[1667521775.328593] 64 bytes from 208.67.222.222: icmp_seq=12 ttl=51 time=24.2 ms
+[1667521776.318446] 64 bytes from 208.67.222.222: icmp_seq=13 ttl=51 time=13.4 ms
+[1667521777.746048] 64 bytes from 208.67.222.222: icmp_seq=14 ttl=51 time=440 ms
+[1667521778.318704] 64 bytes from 208.67.222.222: icmp_seq=15 ttl=51 time=11.2 ms
+[1667521779.463329] 64 bytes from 208.67.222.222: icmp_seq=16 ttl=51 time=154 ms
+[1667521780.340192] 64 bytes from 208.67.222.222: icmp_seq=17 ttl=51 time=29.8 ms
+[1667521781.343212] 64 bytes from 208.67.222.222: icmp_seq=18 ttl=51 time=30.9 ms
+[1667521782.336096] 64 bytes from 208.67.222.222: icmp_seq=19 ttl=51 time=21.7 ms
+[1667521783.333004] 64 bytes from 208.67.222.222: icmp_seq=20 ttl=51 time=17.5 ms
+
+--- 208.67.222.222 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 11.226/47.459/439.576/94.751 ms

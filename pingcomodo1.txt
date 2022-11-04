@@ -1,31 +1,29 @@
-18
-
-Friday, October 28, 2022 11:40:02 AM
 
 
-Pinging 8.26.56.26 with 18 bytes of data:
-Reply from 8.26.56.26: bytes=18 time=41ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=37ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=73ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=47ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=40ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=38ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=57ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=47ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=44ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=51ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=66ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=62ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=51ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=51ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=74ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=31ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=39ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=59ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=59ms TTL=44
-Reply from 8.26.56.26: bytes=18 time=55ms TTL=44
+Thursday, November 3, 2022 6:30:02 PM
 
-Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 31ms, Maximum = 74ms, Average = 51ms
+PING 8.26.56.26 (8.26.56.26) 56(84) bytes of data.
+[1667521802.453134] 64 bytes from 8.26.56.26: icmp_seq=1 ttl=44 time=46.5 ms
+[1667521803.449557] 64 bytes from 8.26.56.26: icmp_seq=2 ttl=44 time=42.1 ms
+[1667521804.461101] 64 bytes from 8.26.56.26: icmp_seq=3 ttl=44 time=52.7 ms
+[1667521805.442978] 64 bytes from 8.26.56.26: icmp_seq=4 ttl=44 time=33.6 ms
+[1667521806.461015] 64 bytes from 8.26.56.26: icmp_seq=5 ttl=44 time=50.0 ms
+[1667521807.459093] 64 bytes from 8.26.56.26: icmp_seq=6 ttl=44 time=47.0 ms
+[1667521808.453715] 64 bytes from 8.26.56.26: icmp_seq=7 ttl=44 time=40.5 ms
+[1667521809.448224] 64 bytes from 8.26.56.26: icmp_seq=8 ttl=44 time=33.4 ms
+[1667521810.453111] 64 bytes from 8.26.56.26: icmp_seq=9 ttl=44 time=36.8 ms
+[1667521811.453589] 64 bytes from 8.26.56.26: icmp_seq=10 ttl=44 time=35.4 ms
+[1667521812.458212] 64 bytes from 8.26.56.26: icmp_seq=11 ttl=44 time=38.6 ms
+[1667521813.463427] 64 bytes from 8.26.56.26: icmp_seq=12 ttl=44 time=42.1 ms
+[1667521814.463490] 64 bytes from 8.26.56.26: icmp_seq=13 ttl=44 time=41.0 ms
+[1667521815.464150] 64 bytes from 8.26.56.26: icmp_seq=14 ttl=44 time=40.5 ms
+[1667521816.463303] 64 bytes from 8.26.56.26: icmp_seq=15 ttl=44 time=38.0 ms
+[1667521817.470018] 64 bytes from 8.26.56.26: icmp_seq=16 ttl=44 time=43.6 ms
+[1667521818.475036] 64 bytes from 8.26.56.26: icmp_seq=17 ttl=44 time=46.9 ms
+[1667521819.470850] 64 bytes from 8.26.56.26: icmp_seq=18 ttl=44 time=41.7 ms
+[1667521820.468493] 64 bytes from 8.26.56.26: icmp_seq=19 ttl=44 time=37.5 ms
+[1667521821.501226] 64 bytes from 8.26.56.26: icmp_seq=20 ttl=44 time=68.6 ms
+
+--- 8.26.56.26 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 33.392/42.810/68.596/7.784 ms

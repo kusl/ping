@@ -27,5 +27,5 @@ While ($True) {
     Get-Date;
     git add .;
     git commit -m "add ping $i";
-    git push origin --all;
+    git push;
 }

@@ -1,13 +1,14 @@
 
 
-Tuesday, November 8, 2022 2:07:12 PM
+Tuesday, November 8, 2022 2:12:35 PM
 
 PING 208.67.220.220 (208.67.220.220) 56(84) bytes of data.
-[1667941638.512468] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
-[1667941641.584417] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
-[1667941644.656424] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
-[1667941653.872468] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1667941958.512450] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
+[1667941961.584463] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
+[1667941961.584519] From 192.168.12.133 icmp_seq=6 Destination Host Unreachable
+[1667941973.872498] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
+[1667941976.944478] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 208.67.220.220 ping statistics ---
-20 packets transmitted, 0 received, +4 errors, 100% packet loss, time 19442ms
-pipe 3
+20 packets transmitted, 0 received, +5 errors, 100% packet loss, time 19441ms
+pipe 4

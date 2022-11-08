@@ -1,14 +1,26 @@
 
 
-Tuesday, November 8, 2022 12:58:07 PM
+Tuesday, November 8, 2022 1:03:10 PM
 
 PING 1.0.0.1 (1.0.0.1) 56(84) bytes of data.
-[1667937497.072453] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
-[1667937497.072505] From 192.168.12.133 icmp_seq=9 Destination Host Unreachable
-[1667937500.144463] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
-[1667937503.216449] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
-[1667937509.360459] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1667937792.240496] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
+[1667937792.240558] From 192.168.12.133 icmp_seq=2 Destination Host Unreachable
+[1667937795.312552] From 192.168.12.133 icmp_seq=3 Destination Host Unreachable
+[1667937795.312608] From 192.168.12.133 icmp_seq=4 Destination Host Unreachable
+[1667937795.312627] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
+[1667937799.216476] From 192.168.12.133 icmp_seq=6 Destination Host Unreachable
+[1667937799.216527] From 192.168.12.133 icmp_seq=7 Destination Host Unreachable
+[1667937799.216546] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
+[1667937802.288506] From 192.168.12.133 icmp_seq=9 Destination Host Unreachable
+[1667937802.288552] From 192.168.12.133 icmp_seq=10 Destination Host Unreachable
+[1667937802.288571] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
+[1667937805.360508] From 192.168.12.133 icmp_seq=12 Destination Host Unreachable
+[1667937805.360555] From 192.168.12.133 icmp_seq=13 Destination Host Unreachable
+[1667937805.360573] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
+[1667937808.432408] From 192.168.12.133 icmp_seq=15 Destination Host Unreachable
+[1667937811.504468] From 192.168.12.133 icmp_seq=19 Destination Host Unreachable
+[1667937811.504512] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 1.0.0.1 ping statistics ---
-20 packets transmitted, 0 received, +5 errors, 100% packet loss, time 19442ms
-pipe 3
+20 packets transmitted, 0 received, +17 errors, 100% packet loss, time 19492ms
+pipe 4

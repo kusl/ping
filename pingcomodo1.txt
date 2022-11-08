@@ -1,29 +1,21 @@
 
 
-Tuesday, November 8, 2022 1:40:18 AM
+Tuesday, November 8, 2022 10:18:41 AM
 
 PING 8.26.56.26 (8.26.56.26) 56(84) bytes of data.
-[1667896818.415400] 64 bytes from 8.26.56.26: icmp_seq=1 ttl=44 time=66.1 ms
-[1667896819.415241] 64 bytes from 8.26.56.26: icmp_seq=2 ttl=44 time=64.8 ms
-[1667896820.415167] 64 bytes from 8.26.56.26: icmp_seq=3 ttl=44 time=62.9 ms
-[1667896821.415218] 64 bytes from 8.26.56.26: icmp_seq=4 ttl=44 time=61.0 ms
-[1667896822.421902] 64 bytes from 8.26.56.26: icmp_seq=5 ttl=44 time=66.6 ms
-[1667896823.415410] 64 bytes from 8.26.56.26: icmp_seq=6 ttl=44 time=58.4 ms
-[1667896824.392520] 64 bytes from 8.26.56.26: icmp_seq=7 ttl=44 time=34.0 ms
-[1667896825.415531] 64 bytes from 8.26.56.26: icmp_seq=8 ttl=44 time=55.9 ms
-[1667896826.415384] 64 bytes from 8.26.56.26: icmp_seq=9 ttl=44 time=54.8 ms
-[1667896827.415257] 64 bytes from 8.26.56.26: icmp_seq=10 ttl=44 time=52.8 ms
-[1667896828.416327] 64 bytes from 8.26.56.26: icmp_seq=11 ttl=44 time=52.0 ms
-[1667896829.415356] 64 bytes from 8.26.56.26: icmp_seq=12 ttl=44 time=49.9 ms
-[1667896830.415229] 64 bytes from 8.26.56.26: icmp_seq=13 ttl=44 time=48.8 ms
-[1667896831.415164] 64 bytes from 8.26.56.26: icmp_seq=14 ttl=44 time=46.8 ms
-[1667896832.415315] 64 bytes from 8.26.56.26: icmp_seq=15 ttl=44 time=45.0 ms
-[1667896833.415214] 64 bytes from 8.26.56.26: icmp_seq=16 ttl=44 time=43.8 ms
-[1667896834.455174] 64 bytes from 8.26.56.26: icmp_seq=17 ttl=44 time=81.9 ms
-[1667896835.455344] 64 bytes from 8.26.56.26: icmp_seq=18 ttl=44 time=80.9 ms
-[1667896836.455337] 64 bytes from 8.26.56.26: icmp_seq=19 ttl=44 time=79.9 ms
-[1667896837.432690] 64 bytes from 8.26.56.26: icmp_seq=20 ttl=44 time=56.4 ms
+[1667927924.976404] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
+[1667927924.976466] From 192.168.12.133 icmp_seq=2 Destination Host Unreachable
+[1667927928.048439] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
+[1667927931.120463] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
+[1667927931.120503] From 192.168.12.133 icmp_seq=9 Destination Host Unreachable
+[1667927934.192483] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
+[1667927934.192534] From 192.168.12.133 icmp_seq=12 Destination Host Unreachable
+[1667927937.264493] From 192.168.12.133 icmp_seq=13 Destination Host Unreachable
+[1667927940.336389] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
+[1667927940.336421] From 192.168.12.133 icmp_seq=18 Destination Host Unreachable
+[1667927943.410502] From 192.168.12.133 icmp_seq=19 Destination Host Unreachable
+[1667927943.410533] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 8.26.56.26 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19027ms
-rtt min/avg/max/mdev = 34.049/58.132/81.861/12.430 ms
+20 packets transmitted, 0 received, +12 errors, 100% packet loss, time 19474ms
+pipe 4

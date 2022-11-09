@@ -1,13 +1,19 @@
 
 
-Tuesday, November 8, 2022 5:15:33 PM
+Tuesday, November 8, 2022 5:20:33 PM
 
 PING 8.20.247.20 (8.20.247.20) 56(84) bytes of data.
-[1667952945.840412] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
-[1667952948.912410] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
-[1667952948.912469] From 192.168.12.133 icmp_seq=15 Destination Host Unreachable
-[1667952955.056475] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1667953239.792461] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
+[1667953239.792523] From 192.168.12.133 icmp_seq=6 Destination Host Unreachable
+[1667953242.864475] From 192.168.12.133 icmp_seq=7 Destination Host Unreachable
+[1667953242.864518] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
+[1667953242.864538] From 192.168.12.133 icmp_seq=9 Destination Host Unreachable
+[1667953245.936562] From 192.168.12.133 icmp_seq=10 Destination Host Unreachable
+[1667953245.936620] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
+[1667953252.080559] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
+[1667953252.080611] From 192.168.12.133 icmp_seq=18 Destination Host Unreachable
+[1667953255.152437] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 8.20.247.20 ping statistics ---
-20 packets transmitted, 0 received, +4 errors, 100% packet loss, time 19441ms
-pipe 3
+20 packets transmitted, 0 received, +10 errors, 100% packet loss, time 19442ms
+pipe 4

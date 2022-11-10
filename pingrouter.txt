@@ -1,29 +1,29 @@
 
 
-Wednesday, November 9, 2022 11:55:12 PM
+Wednesday, November 9, 2022 11:59:03 PM
 
 PING 192.168.12.1 (192.168.12.1) 56(84) bytes of data.
-[1668063312.510800] 64 bytes from 192.168.12.1: icmp_seq=1 ttl=64 time=0.854 ms
-[1668063313.521246] 64 bytes from 192.168.12.1: icmp_seq=2 ttl=64 time=0.812 ms
-[1668063314.545211] 64 bytes from 192.168.12.1: icmp_seq=3 ttl=64 time=0.811 ms
-[1668063315.569260] 64 bytes from 192.168.12.1: icmp_seq=4 ttl=64 time=0.856 ms
-[1668063316.593305] 64 bytes from 192.168.12.1: icmp_seq=5 ttl=64 time=0.829 ms
-[1668063317.617231] 64 bytes from 192.168.12.1: icmp_seq=6 ttl=64 time=0.809 ms
-[1668063318.641154] 64 bytes from 192.168.12.1: icmp_seq=7 ttl=64 time=0.735 ms
-[1668063319.665253] 64 bytes from 192.168.12.1: icmp_seq=8 ttl=64 time=0.840 ms
-[1668063320.689138] 64 bytes from 192.168.12.1: icmp_seq=9 ttl=64 time=0.703 ms
-[1668063321.713046] 64 bytes from 192.168.12.1: icmp_seq=10 ttl=64 time=0.627 ms
-[1668063322.737035] 64 bytes from 192.168.12.1: icmp_seq=11 ttl=64 time=0.611 ms
-[1668063323.761028] 64 bytes from 192.168.12.1: icmp_seq=12 ttl=64 time=0.599 ms
-[1668063324.785021] 64 bytes from 192.168.12.1: icmp_seq=13 ttl=64 time=0.593 ms
-[1668063325.809114] 64 bytes from 192.168.12.1: icmp_seq=14 ttl=64 time=0.689 ms
-[1668063326.833270] 64 bytes from 192.168.12.1: icmp_seq=15 ttl=64 time=0.845 ms
-[1668063327.857124] 64 bytes from 192.168.12.1: icmp_seq=16 ttl=64 time=0.722 ms
-[1668063328.881222] 64 bytes from 192.168.12.1: icmp_seq=17 ttl=64 time=0.805 ms
-[1668063329.905205] 64 bytes from 192.168.12.1: icmp_seq=18 ttl=64 time=0.802 ms
-[1668063330.929147] 64 bytes from 192.168.12.1: icmp_seq=19 ttl=64 time=0.745 ms
-[1668063331.953102] 64 bytes from 192.168.12.1: icmp_seq=20 ttl=64 time=0.703 ms
+[1668063543.232034] 64 bytes from 192.168.12.1: icmp_seq=1 ttl=64 time=0.856 ms
+[1668063544.244869] 64 bytes from 192.168.12.1: icmp_seq=2 ttl=64 time=4.42 ms
+[1668063545.242749] 64 bytes from 192.168.12.1: icmp_seq=3 ttl=64 time=0.730 ms
+[1668063546.289970] 64 bytes from 192.168.12.1: icmp_seq=4 ttl=64 time=0.609 ms
+[1668063547.313043] 64 bytes from 192.168.12.1: icmp_seq=5 ttl=64 time=0.594 ms
+[1668063548.337013] 64 bytes from 192.168.12.1: icmp_seq=6 ttl=64 time=0.639 ms
+[1668063549.360905] 64 bytes from 192.168.12.1: icmp_seq=7 ttl=64 time=0.559 ms
+[1668063550.384911] 64 bytes from 192.168.12.1: icmp_seq=8 ttl=64 time=0.563 ms
+[1668063551.408977] 64 bytes from 192.168.12.1: icmp_seq=9 ttl=64 time=0.630 ms
+[1668063552.433108] 64 bytes from 192.168.12.1: icmp_seq=10 ttl=64 time=0.721 ms
+[1668063553.457121] 64 bytes from 192.168.12.1: icmp_seq=11 ttl=64 time=0.752 ms
+[1668063554.481097] 64 bytes from 192.168.12.1: icmp_seq=12 ttl=64 time=0.730 ms
+[1668063555.505318] 64 bytes from 192.168.12.1: icmp_seq=13 ttl=64 time=0.894 ms
+[1668063556.506127] 64 bytes from 192.168.12.1: icmp_seq=14 ttl=64 time=0.762 ms
+[1668063557.553150] 64 bytes from 192.168.12.1: icmp_seq=15 ttl=64 time=0.729 ms
+[1668063558.577220] 64 bytes from 192.168.12.1: icmp_seq=16 ttl=64 time=0.797 ms
+[1668063559.601106] 64 bytes from 192.168.12.1: icmp_seq=17 ttl=64 time=0.710 ms
+[1668063560.625168] 64 bytes from 192.168.12.1: icmp_seq=18 ttl=64 time=0.730 ms
+[1668063561.649033] 64 bytes from 192.168.12.1: icmp_seq=19 ttl=64 time=0.639 ms
+[1668063562.673020] 64 bytes from 192.168.12.1: icmp_seq=20 ttl=64 time=0.606 ms
 
 --- 192.168.12.1 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19442ms
-rtt min/avg/max/mdev = 0.593/0.749/0.856/0.087 ms
+20 packets transmitted, 20 received, 0% packet loss, time 19441ms
+rtt min/avg/max/mdev = 0.559/0.883/4.418/0.815 ms

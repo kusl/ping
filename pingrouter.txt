@@ -1,19 +1,19 @@
 
 
-Thursday, November 10, 2022 7:55:01 AM
+Thursday, November 10, 2022 7:58:58 AM
 
 
 Pinging 192.168.12.1 with 32 bytes of data:
-Request timed out.
-Reply from 192.168.12.1: bytes=32 time=102ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.12.1: bytes=32 time=23ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=32 time=11ms TTL=64
+Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
@@ -26,6 +26,6 @@ Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 Reply from 192.168.12.1: bytes=32 time=1ms TTL=64
 
 Ping statistics for 192.168.12.1:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 102ms, Average = 6ms
+    Minimum = 1ms, Maximum = 23ms, Average = 2ms

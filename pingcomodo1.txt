@@ -1,29 +1,29 @@
 
 
-Friday, November 11, 2022 6:07:42 PM
+Friday, November 11, 2022 6:11:33 PM
 
 PING 8.26.56.26 (8.26.56.26) 56(84) bytes of data.
-[1668215262.935902] 64 bytes from 8.26.56.26: icmp_seq=1 ttl=45 time=18.2 ms
-[1668215263.939896] 64 bytes from 8.26.56.26: icmp_seq=2 ttl=45 time=20.8 ms
-[1668215264.950230] 64 bytes from 8.26.56.26: icmp_seq=3 ttl=45 time=29.2 ms
-[1668215265.959149] 64 bytes from 8.26.56.26: icmp_seq=4 ttl=45 time=36.8 ms
-[1668215266.938803] 64 bytes from 8.26.56.26: icmp_seq=5 ttl=45 time=14.5 ms
-[1668215267.944579] 64 bytes from 8.26.56.26: icmp_seq=6 ttl=45 time=18.6 ms
-[1668215268.964323] 64 bytes from 8.26.56.26: icmp_seq=7 ttl=45 time=36.6 ms
-[1668215269.945498] 64 bytes from 8.26.56.26: icmp_seq=8 ttl=45 time=16.0 ms
-[1668215270.960977] 64 bytes from 8.26.56.26: icmp_seq=9 ttl=45 time=30.3 ms
-[1668215271.950550] 64 bytes from 8.26.56.26: icmp_seq=10 ttl=45 time=18.4 ms
-[1668215272.949034] 64 bytes from 8.26.56.26: icmp_seq=11 ttl=45 time=15.4 ms
-[1668215273.953871] 64 bytes from 8.26.56.26: icmp_seq=12 ttl=45 time=18.7 ms
-[1668215274.959535] 64 bytes from 8.26.56.26: icmp_seq=13 ttl=45 time=22.5 ms
-[1668215275.966466] 64 bytes from 8.26.56.26: icmp_seq=14 ttl=45 time=27.8 ms
-[1668215276.959046] 64 bytes from 8.26.56.26: icmp_seq=15 ttl=45 time=18.4 ms
-[1668215277.959350] 64 bytes from 8.26.56.26: icmp_seq=16 ttl=45 time=17.1 ms
-[1668215278.964850] 64 bytes from 8.26.56.26: icmp_seq=17 ttl=45 time=21.4 ms
-[1668215279.960241] 64 bytes from 8.26.56.26: icmp_seq=18 ttl=45 time=15.2 ms
-[1668215280.975196] 64 bytes from 8.26.56.26: icmp_seq=19 ttl=45 time=28.8 ms
-[1668215281.968936] 64 bytes from 8.26.56.26: icmp_seq=20 ttl=45 time=20.6 ms
+[1668215494.040272] 64 bytes from 8.26.56.26: icmp_seq=1 ttl=45 time=160 ms
+[1668215494.909248] 64 bytes from 8.26.56.26: icmp_seq=2 ttl=45 time=27.9 ms
+[1668215495.900045] 64 bytes from 8.26.56.26: icmp_seq=3 ttl=45 time=17.7 ms
+[1668215496.898999] 64 bytes from 8.26.56.26: icmp_seq=4 ttl=45 time=14.8 ms
+[1668215497.908987] 64 bytes from 8.26.56.26: icmp_seq=5 ttl=45 time=22.8 ms
+[1668215498.920410] 64 bytes from 8.26.56.26: icmp_seq=6 ttl=45 time=33.1 ms
+[1668215499.903981] 64 bytes from 8.26.56.26: icmp_seq=7 ttl=45 time=15.7 ms
+[1668215500.929382] 64 bytes from 8.26.56.26: icmp_seq=8 ttl=45 time=39.3 ms
+[1668215501.917025] 64 bytes from 8.26.56.26: icmp_seq=9 ttl=45 time=25.5 ms
+[1668215502.918783] 64 bytes from 8.26.56.26: icmp_seq=10 ttl=45 time=26.5 ms
+[1668215504.155915] 64 bytes from 8.26.56.26: icmp_seq=11 ttl=45 time=262 ms
+[1668215504.908963] 64 bytes from 8.26.56.26: icmp_seq=12 ttl=45 time=14.1 ms
+[1668215505.908741] 64 bytes from 8.26.56.26: icmp_seq=13 ttl=45 time=12.6 ms
+[1668215506.918735] 64 bytes from 8.26.56.26: icmp_seq=14 ttl=45 time=20.9 ms
+[1668215507.914454] 64 bytes from 8.26.56.26: icmp_seq=15 ttl=45 time=15.2 ms
+[1668215508.919078] 64 bytes from 8.26.56.26: icmp_seq=16 ttl=45 time=18.5 ms
+[1668215509.928788] 64 bytes from 8.26.56.26: icmp_seq=17 ttl=45 time=26.6 ms
+[1668215510.923939] 64 bytes from 8.26.56.26: icmp_seq=18 ttl=45 time=20.0 ms
+[1668215511.918993] 64 bytes from 8.26.56.26: icmp_seq=19 ttl=45 time=13.9 ms
+[1668215512.924052] 64 bytes from 8.26.56.26: icmp_seq=20 ttl=45 time=17.9 ms
 
 --- 8.26.56.26 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19030ms
-rtt min/avg/max/mdev = 14.511/22.275/36.786/6.716 ms
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 12.629/40.255/261.977/59.544 ms

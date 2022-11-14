@@ -1,29 +1,14 @@
 
 
-Sunday, November 13, 2022 6:18:32 PM
+Sunday, November 13, 2022 6:22:23 PM
 
 PING 9.9.9.9 (9.9.9.9) 56(84) bytes of data.
-[1668388712.241289] 64 bytes from 9.9.9.9: icmp_seq=1 ttl=54 time=43.7 ms
-[1668388713.222543] 64 bytes from 9.9.9.9: icmp_seq=2 ttl=54 time=23.1 ms
-[1668388714.217642] 64 bytes from 9.9.9.9: icmp_seq=3 ttl=54 time=17.0 ms
-[1668388715.226982] 64 bytes from 9.9.9.9: icmp_seq=4 ttl=54 time=25.2 ms
-[1668388716.497559] 64 bytes from 9.9.9.9: icmp_seq=5 ttl=54 time=295 ms
-[1668388717.242396] 64 bytes from 9.9.9.9: icmp_seq=6 ttl=54 time=39.1 ms
-[1668388718.222148] 64 bytes from 9.9.9.9: icmp_seq=7 ttl=54 time=17.7 ms
-[1668388719.227208] 64 bytes from 9.9.9.9: icmp_seq=8 ttl=54 time=21.0 ms
-[1668388720.235745] 64 bytes from 9.9.9.9: icmp_seq=9 ttl=54 time=28.4 ms
-[1668388721.233248] 64 bytes from 9.9.9.9: icmp_seq=10 ttl=54 time=24.9 ms
-[1668388722.232254] 64 bytes from 9.9.9.9: icmp_seq=11 ttl=54 time=22.9 ms
-[1668388723.227735] 64 bytes from 9.9.9.9: icmp_seq=12 ttl=54 time=17.4 ms
-[1668388724.226547] 64 bytes from 9.9.9.9: icmp_seq=13 ttl=54 time=14.7 ms
-[1668388725.233655] 64 bytes from 9.9.9.9: icmp_seq=14 ttl=54 time=20.0 ms
-[1668388726.282733] 64 bytes from 9.9.9.9: icmp_seq=15 ttl=54 time=68.0 ms
-[1668388727.257469] 64 bytes from 9.9.9.9: icmp_seq=16 ttl=54 time=41.7 ms
-[1668388728.241128] 64 bytes from 9.9.9.9: icmp_seq=17 ttl=54 time=23.6 ms
-[1668388729.247040] 64 bytes from 9.9.9.9: icmp_seq=18 ttl=54 time=27.8 ms
-[1668388730.234666] 64 bytes from 9.9.9.9: icmp_seq=19 ttl=54 time=13.5 ms
-[1668388731.327688] 64 bytes from 9.9.9.9: icmp_seq=20 ttl=54 time=105 ms
+[1668388943.148157] 64 bytes from 9.9.9.9: icmp_seq=1 ttl=54 time=30.4 ms
+[1668388944.137261] 64 bytes from 9.9.9.9: icmp_seq=2 ttl=54 time=18.9 ms
+[1668388945.367153] 64 bytes from 9.9.9.9: icmp_seq=3 ttl=54 time=248 ms
+[1668388946.204578] 64 bytes from 9.9.9.9: icmp_seq=4 ttl=54 time=83.5 ms
+[1668388947.179691] 64 bytes from 9.9.9.9: icmp_seq=5 ttl=54 time=57.0 ms
 
 --- 9.9.9.9 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19025ms
-rtt min/avg/max/mdev = 13.499/44.485/295.248/61.229 ms
+20 packets transmitted, 5 received, 75% packet loss, time 19355ms
+rtt min/avg/max/mdev = 18.946/87.547/247.811/83.189 ms

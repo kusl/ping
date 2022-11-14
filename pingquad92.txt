@@ -1,12 +1,29 @@
 
 
-Sunday, November 13, 2022 9:44:51 PM
+Sunday, November 13, 2022 9:49:26 PM
 
 PING 149.112.112.112 (149.112.112.112) 56(84) bytes of data.
-[1668401097.577363] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
-[1668401103.721324] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
-[1668401112.937422] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1668401366.176639] 64 bytes from 149.112.112.112: icmp_seq=1 ttl=54 time=16.5 ms
+[1668401367.176557] 64 bytes from 149.112.112.112: icmp_seq=2 ttl=54 time=15.8 ms
+[1668401368.177177] 64 bytes from 149.112.112.112: icmp_seq=3 ttl=54 time=15.8 ms
+[1668401369.181872] 64 bytes from 149.112.112.112: icmp_seq=4 ttl=54 time=19.6 ms
+[1668401370.181347] 64 bytes from 149.112.112.112: icmp_seq=5 ttl=54 time=17.5 ms
+[1668401371.181350] 64 bytes from 149.112.112.112: icmp_seq=6 ttl=54 time=15.9 ms
+[1668401372.187081] 64 bytes from 149.112.112.112: icmp_seq=7 ttl=54 time=19.6 ms
+[1668401373.192905] 64 bytes from 149.112.112.112: icmp_seq=8 ttl=54 time=23.7 ms
+[1668401374.187061] 64 bytes from 149.112.112.112: icmp_seq=9 ttl=54 time=16.0 ms
+[1668401375.187419] 64 bytes from 149.112.112.112: icmp_seq=10 ttl=54 time=15.2 ms
+[1668401376.195584] 64 bytes from 149.112.112.112: icmp_seq=11 ttl=54 time=22.1 ms
+[1668401377.195770] 64 bytes from 149.112.112.112: icmp_seq=12 ttl=54 time=21.2 ms
+[1668401378.201278] 64 bytes from 149.112.112.112: icmp_seq=13 ttl=54 time=25.4 ms
+[1668401379.198413] 64 bytes from 149.112.112.112: icmp_seq=14 ttl=54 time=21.0 ms
+[1668401380.211588] 64 bytes from 149.112.112.112: icmp_seq=15 ttl=54 time=33.0 ms
+[1668401381.217260] 64 bytes from 149.112.112.112: icmp_seq=16 ttl=54 time=37.5 ms
+[1668401382.198571] 64 bytes from 149.112.112.112: icmp_seq=17 ttl=54 time=17.2 ms
+[1668401383.202135] 64 bytes from 149.112.112.112: icmp_seq=18 ttl=54 time=19.4 ms
+[1668401384.206764] 64 bytes from 149.112.112.112: icmp_seq=19 ttl=54 time=22.5 ms
+[1668401385.201490] 64 bytes from 149.112.112.112: icmp_seq=20 ttl=54 time=15.6 ms
 
 --- 149.112.112.112 ping statistics ---
-20 packets transmitted, 0 received, +3 errors, 100% packet loss, time 19441ms
-pipe 3
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 15.210/20.528/37.537/5.764 ms

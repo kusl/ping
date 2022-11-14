@@ -1,14 +1,29 @@
 
 
-Sunday, November 13, 2022 9:44:02 PM
+Sunday, November 13, 2022 9:48:48 PM
 
 PING 8.8.4.4 (8.8.4.4) 56(84) bytes of data.
-[1668401051.497375] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
-[1668401054.569392] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
-[1668401057.641372] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
-[1668401060.713419] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
-[1668401063.785426] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1668401328.045525] 64 bytes from 8.8.4.4: icmp_seq=1 ttl=113 time=30.5 ms
+[1668401329.042057] 64 bytes from 8.8.4.4: icmp_seq=2 ttl=113 time=25.4 ms
+[1668401330.050348] 64 bytes from 8.8.4.4: icmp_seq=3 ttl=113 time=32.1 ms
+[1668401331.046208] 64 bytes from 8.8.4.4: icmp_seq=4 ttl=113 time=27.5 ms
+[1668401332.043806] 64 bytes from 8.8.4.4: icmp_seq=5 ttl=113 time=23.5 ms
+[1668401333.048665] 64 bytes from 8.8.4.4: icmp_seq=6 ttl=113 time=26.7 ms
+[1668401334.048155] 64 bytes from 8.8.4.4: icmp_seq=7 ttl=113 time=24.4 ms
+[1668401335.048420] 64 bytes from 8.8.4.4: icmp_seq=8 ttl=113 time=23.1 ms
+[1668401336.048505] 64 bytes from 8.8.4.4: icmp_seq=9 ttl=113 time=22.0 ms
+[1668401337.053301] 64 bytes from 8.8.4.4: icmp_seq=10 ttl=113 time=25.7 ms
+[1668401338.053205] 64 bytes from 8.8.4.4: icmp_seq=11 ttl=113 time=23.8 ms
+[1668401339.053383] 64 bytes from 8.8.4.4: icmp_seq=12 ttl=113 time=22.0 ms
+[1668401340.057876] 64 bytes from 8.8.4.4: icmp_seq=13 ttl=113 time=25.5 ms
+[1668401341.057337] 64 bytes from 8.8.4.4: icmp_seq=14 ttl=113 time=23.3 ms
+[1668401342.058012] 64 bytes from 8.8.4.4: icmp_seq=15 ttl=113 time=22.5 ms
+[1668401343.057969] 64 bytes from 8.8.4.4: icmp_seq=16 ttl=113 time=21.3 ms
+[1668401344.067989] 64 bytes from 8.8.4.4: icmp_seq=17 ttl=113 time=29.9 ms
+[1668401345.063243] 64 bytes from 8.8.4.4: icmp_seq=18 ttl=113 time=23.1 ms
+[1668401346.069028] 64 bytes from 8.8.4.4: icmp_seq=19 ttl=113 time=27.6 ms
+[1668401347.068330] 64 bytes from 8.8.4.4: icmp_seq=20 ttl=113 time=25.2 ms
 
 --- 8.8.4.4 ping statistics ---
-20 packets transmitted, 0 received, +5 errors, 100% packet loss, time 19438ms
-pipe 3
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 21.349/25.261/32.133/2.935 ms

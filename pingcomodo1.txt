@@ -1,13 +1,16 @@
 
 
-Sunday, November 13, 2022 9:26:27 PM
+Sunday, November 13, 2022 9:31:19 PM
 
 PING 8.26.56.26 (8.26.56.26) 56(84) bytes of data.
-[1668399996.713351] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
-[1668399996.713413] From 192.168.12.133 icmp_seq=9 Destination Host Unreachable
-[1668399999.785380] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
-[1668400009.001359] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1668400282.409399] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
+[1668400282.409452] From 192.168.12.133 icmp_seq=2 Destination Host Unreachable
+[1668400282.409475] From 192.168.12.133 icmp_seq=3 Destination Host Unreachable
+[1668400285.481409] From 192.168.12.133 icmp_seq=4 Destination Host Unreachable
+[1668400294.697372] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
+[1668400297.769373] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
+[1668400300.841410] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 8.26.56.26 ping statistics ---
-20 packets transmitted, 0 received, +4 errors, 100% packet loss, time 19442ms
-pipe 3
+20 packets transmitted, 0 received, +7 errors, 100% packet loss, time 19440ms
+pipe 4

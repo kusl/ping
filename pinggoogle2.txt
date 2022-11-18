@@ -1,29 +1,10 @@
 
 
-Thursday, November 17, 2022 5:46:05 PM
+Thursday, November 17, 2022 5:50:14 PM
 
 PING 8.8.4.4 (8.8.4.4) 56(84) bytes of data.
-[1668732365.541125] 64 bytes from 8.8.4.4: icmp_seq=1 ttl=113 time=450 ms
-[1668732366.425553] 64 bytes from 8.8.4.4: icmp_seq=2 ttl=113 time=334 ms
-[1668732367.141973] 64 bytes from 8.8.4.4: icmp_seq=3 ttl=113 time=48.6 ms
-[1668732368.914136] 64 bytes from 8.8.4.4: icmp_seq=4 ttl=113 time=819 ms
-[1668732369.554063] 64 bytes from 8.8.4.4: icmp_seq=5 ttl=113 time=459 ms
-[1668732371.010937] 64 bytes from 8.8.4.4: icmp_seq=6 ttl=113 time=914 ms
-[1668732371.426056] 64 bytes from 8.8.4.4: icmp_seq=7 ttl=113 time=329 ms
-[1668732372.408390] 64 bytes from 8.8.4.4: icmp_seq=8 ttl=113 time=310 ms
-[1668732373.392308] 64 bytes from 8.8.4.4: icmp_seq=9 ttl=113 time=292 ms
-[1668732374.143122] 64 bytes from 8.8.4.4: icmp_seq=10 ttl=113 time=41.9 ms
-[1668732375.565789] 64 bytes from 8.8.4.4: icmp_seq=11 ttl=113 time=464 ms
-[1668732376.277656] 64 bytes from 8.8.4.4: icmp_seq=12 ttl=113 time=174 ms
-[1668732378.481442] 64 bytes from 8.8.4.4: icmp_seq=13 ttl=113 time=1377 ms
-[1668732378.834021] 64 bytes from 8.8.4.4: icmp_seq=14 ttl=113 time=703 ms
-[1668732381.450655] 64 bytes from 8.8.4.4: icmp_seq=15 ttl=113 time=2318 ms
-[1668732382.132064] 64 bytes from 8.8.4.4: icmp_seq=16 ttl=113 time=1953 ms
-[1668732382.165931] 64 bytes from 8.8.4.4: icmp_seq=17 ttl=113 time=963 ms
-[1668732383.001571] 64 bytes from 8.8.4.4: icmp_seq=18 ttl=113 time=798 ms
-[1668732384.098284] 64 bytes from 8.8.4.4: icmp_seq=19 ttl=113 time=894 ms
-[1668732384.421181] 64 bytes from 8.8.4.4: icmp_seq=20 ttl=113 time=218 ms
+[1668732641.402332] 64 bytes from 8.8.4.4: icmp_seq=1 ttl=113 time=26780 ms
 
 --- 8.8.4.4 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19112ms
-rtt min/avg/max/mdev = 41.922/692.880/2318.171/589.724 ms, pipe 3
+20 packets transmitted, 1 received, 95% packet loss, time 19445ms
+rtt min/avg/max/mdev = 26779.758/26779.758/26779.758/0.000 ms, pipe 20

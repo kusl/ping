@@ -1,31 +1,31 @@
 
 
-Monday, November 21, 2022 11:57:16 AM
+Monday, November 21, 2022 12:04:26 PM
 
 
 Pinging 1.0.0.1 with 32 bytes of data:
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 1.0.0.1: bytes=32 time=100ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=139ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=37ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=82ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=30ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=34ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=16ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=31ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=98ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=86ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=113ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=98ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=222ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=219ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=659ms TTL=51
+Request timed out.
+Reply from 1.0.0.1: bytes=32 time=3614ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=1457ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2447ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2851ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=1926ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2797ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2487ms TTL=51
+Request timed out.
+Reply from 1.0.0.1: bytes=32 time=1146ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2469ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2795ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2448ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2497ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2464ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2908ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=2740ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=430ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=1433ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=1237ms TTL=51
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 659ms, Average = 130ms
+    Minimum = 430ms, Maximum = 3614ms, Average = 2230ms

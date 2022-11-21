@@ -1,29 +1,31 @@
 
 
-Monday, November 21, 2022 11:58:58 AM
+Monday, November 21, 2022 12:05:57 PM
 
 
 Pinging 9.9.9.9 with 32 bytes of data:
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
+Reply from 9.9.9.9: bytes=32 time=547ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=261ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=545ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=535ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=583ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=826ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=820ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=838ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=875ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=1188ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=1668ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=2314ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=2974ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=3166ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=1960ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=630ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=1511ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=67ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=80ms TTL=54
+Reply from 9.9.9.9: bytes=32 time=23ms TTL=54
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 23ms, Maximum = 3166ms, Average = 1070ms

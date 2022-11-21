@@ -1,31 +1,31 @@
 
 
-Monday, November 21, 2022 12:39:54 PM
+Monday, November 21, 2022 12:55:20 PM
 
 
 Pinging 1.0.0.1 with 32 bytes of data:
-Reply from 1.0.0.1: bytes=32 time=2379ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1885ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=2812ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1795ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1768ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=2252ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1792ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=3490ms TTL=51
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.0.0.1: bytes=32 time=2558ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=2157ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=3689ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=3258ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=3116ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1899ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1257ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1564ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1691ms TTL=51
+Request timed out.
+Request timed out.
+Reply from 192.168.12.1: Destination net unreachable.
+Request timed out.
+Reply from 1.0.0.1: bytes=32 time=92ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=79ms TTL=52
+Request timed out.
+Reply from 1.0.0.1: bytes=32 time=270ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=62ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=31ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=524ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=45ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=44ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=79ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=82ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=26ms TTL=52
+Reply from 1.0.0.1: bytes=32 time=33ms TTL=52
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1257ms, Maximum = 3689ms, Average = 2315ms
+    Minimum = 26ms, Maximum = 524ms, Average = 113ms

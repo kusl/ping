@@ -1,29 +1,28 @@
 
 
-Monday, November 21, 2022 10:43:11 AM
+Monday, November 21, 2022 10:50:33 AM
 
 PING 9.9.9.9 (9.9.9.9) 56(84) bytes of data.
-[1669052605.635338] 64 bytes from 9.9.9.9: icmp_seq=1 ttl=54 time=13874 ms
-[1669052607.942541] 64 bytes from 9.9.9.9: icmp_seq=2 ttl=54 time=15150 ms
-[1669052609.288336] 64 bytes from 9.9.9.9: icmp_seq=3 ttl=54 time=15472 ms
-[1669052610.521008] 64 bytes from 9.9.9.9: icmp_seq=4 ttl=54 time=15681 ms
-[1669052611.952291] 64 bytes from 9.9.9.9: icmp_seq=5 ttl=54 time=16088 ms
-[1669052612.893536] 64 bytes from 9.9.9.9: icmp_seq=6 ttl=54 time=16005 ms
-[1669052613.661202] 64 bytes from 9.9.9.9: icmp_seq=7 ttl=54 time=15749 ms
-[1669052615.269014] 64 bytes from 9.9.9.9: icmp_seq=8 ttl=54 time=16333 ms
-[1669052616.765916] 64 bytes from 9.9.9.9: icmp_seq=9 ttl=54 time=16806 ms
-[1669052618.539433] 64 bytes from 9.9.9.9: icmp_seq=10 ttl=54 time=17555 ms
-[1669052620.170560] 64 bytes from 9.9.9.9: icmp_seq=11 ttl=54 time=18162 ms
-[1669052621.278326] 64 bytes from 9.9.9.9: icmp_seq=12 ttl=54 time=18246 ms
-[1669052622.788678] 64 bytes from 9.9.9.9: icmp_seq=13 ttl=54 time=18732 ms
-[1669052623.664298] 64 bytes from 9.9.9.9: icmp_seq=14 ttl=54 time=18584 ms
-[1669052624.804721] 64 bytes from 9.9.9.9: icmp_seq=15 ttl=54 time=18724 ms
-[1669052626.029138] 64 bytes from 9.9.9.9: icmp_seq=16 ttl=54 time=18901 ms
-[1669052627.265885] 64 bytes from 9.9.9.9: icmp_seq=17 ttl=54 time=19138 ms
-[1669052628.472930] 64 bytes from 9.9.9.9: icmp_seq=18 ttl=54 time=19297 ms
-[1669052630.115136] 64 bytes from 9.9.9.9: icmp_seq=19 ttl=54 time=19938 ms
-[1669052631.745202] 64 bytes from 9.9.9.9: icmp_seq=20 ttl=54 time=20567 ms
+[1669053039.502875] 64 bytes from 9.9.9.9: icmp_seq=1 ttl=54 time=5693 ms
+[1669053041.614897] 64 bytes from 9.9.9.9: icmp_seq=2 ttl=54 time=6775 ms
+[1669053042.429673] 64 bytes from 9.9.9.9: icmp_seq=3 ttl=54 time=6565 ms
+[1669053043.053215] 64 bytes from 9.9.9.9: icmp_seq=4 ttl=54 time=6165 ms
+[1669053043.991410] 64 bytes from 9.9.9.9: icmp_seq=5 ttl=54 time=6079 ms
+[1669053045.422496] 64 bytes from 9.9.9.9: icmp_seq=6 ttl=54 time=6486 ms
+[1669053046.842421] 64 bytes from 9.9.9.9: icmp_seq=7 ttl=54 time=6905 ms
+[1669053048.277914] 64 bytes from 9.9.9.9: icmp_seq=8 ttl=54 time=7294 ms
+[1669053049.354205] 64 bytes from 9.9.9.9: icmp_seq=9 ttl=54 time=7369 ms
+[1669053050.925176] 64 bytes from 9.9.9.9: icmp_seq=10 ttl=54 time=7939 ms
+[1669053052.233377] 64 bytes from 9.9.9.9: icmp_seq=11 ttl=54 time=8245 ms
+[1669053054.013008] 64 bytes from 9.9.9.9: icmp_seq=12 ttl=54 time=9024 ms
+[1669053054.448410] 64 bytes from 9.9.9.9: icmp_seq=13 ttl=54 time=8458 ms
+[1669053056.115198] 64 bytes from 9.9.9.9: icmp_seq=14 ttl=54 time=9124 ms
+[1669053057.014967] 64 bytes from 9.9.9.9: icmp_seq=15 ttl=54 time=8991 ms
+[1669053060.053250] 64 bytes from 9.9.9.9: icmp_seq=16 ttl=54 time=11027 ms
+[1669053060.636011] 64 bytes from 9.9.9.9: icmp_seq=17 ttl=54 time=10609 ms
+[1669053061.575556] 64 bytes from 9.9.9.9: icmp_seq=18 ttl=54 time=10549 ms
+[1669053063.188356] 64 bytes from 9.9.9.9: icmp_seq=20 ttl=54 time=10131 ms
 
 --- 9.9.9.9 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19417ms
-rtt min/avg/max/mdev = 13874.081/17450.009/20566.824/1783.149 ms, pipe 16
+20 packets transmitted, 19 received, 5% packet loss, time 19247ms
+rtt min/avg/max/mdev = 5692.596/8075.122/11027.382/1635.175 ms, pipe 9

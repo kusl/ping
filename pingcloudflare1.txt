@@ -1,22 +1,22 @@
 
 
-Monday, November 21, 2022 9:46:29 AM
+Monday, November 21, 2022 9:56:40 AM
 
 
 Pinging 1.1.1.1 with 32 bytes of data:
-Reply from 1.1.1.1: bytes=32 time=3191ms TTL=51
-Reply from 1.1.1.1: bytes=32 time=1714ms TTL=51
-Reply from 1.1.1.1: bytes=32 time=1397ms TTL=51
-Reply from 1.1.1.1: bytes=32 time=2710ms TTL=51
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=32 time=1995ms TTL=51
+Reply from 1.1.1.1: bytes=32 time=776ms TTL=51
+Reply from 1.1.1.1: bytes=32 time=3654ms TTL=51
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 1.1.1.1: bytes=32 time=204ms TTL=51
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 1.1.1.1: bytes=32 time=3161ms TTL=51
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,6 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1397ms, Maximum = 3191ms, Average = 2253ms
+    Minimum = 204ms, Maximum = 3654ms, Average = 1958ms

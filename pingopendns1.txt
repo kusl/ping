@@ -1,9 +1,9 @@
-9
+10
 
-Monday, November 21, 2022 11:34:28 AM
+Monday, November 21, 2022 11:46:48 AM
 
 
-Pinging 208.67.222.222 with 9 bytes of data:
+Pinging 208.67.222.222 with 10 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,19 +11,21 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 208.67.222.222: bytes=10 time=3441ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=1731ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=2757ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=2032ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=2245ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=3316ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=2993ms TTL=51
 Request timed out.
+Reply from 208.67.222.222: bytes=10 time=2829ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=1793ms TTL=51
+Reply from 208.67.222.222: bytes=10 time=3796ms TTL=51
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 208.67.222.222: bytes=10 time=3964ms TTL=51
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1731ms, Maximum = 3964ms, Average = 2808ms

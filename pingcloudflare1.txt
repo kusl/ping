@@ -1,31 +1,31 @@
-4
+5
 
-Monday, November 21, 2022 11:03:41 AM
+Monday, November 21, 2022 11:10:08 AM
 
 
-Pinging 1.1.1.1 with 4 bytes of data:
+Pinging 1.1.1.1 with 5 bytes of data:
+Request timed out.
+Reply from 1.1.1.1: bytes=5 time=2610ms TTL=51
+Reply from 1.1.1.1: bytes=5 time=3707ms TTL=51
+Reply from 1.1.1.1: bytes=5 time=2106ms TTL=51
+Reply from 1.1.1.1: bytes=5 time=3363ms TTL=51
+Reply from 1.1.1.1: bytes=5 time=2558ms TTL=51
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=4 time=3622ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=641ms TTL=51
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=4 time=3507ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=3695ms TTL=51
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=4 time=2965ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=1488ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=2453ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=2881ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=1881ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=2901ms TTL=51
-Reply from 1.1.1.1: bytes=4 time=2612ms TTL=51
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 641ms, Maximum = 3695ms, Average = 2604ms
+    Minimum = 2106ms, Maximum = 3707ms, Average = 2868ms

@@ -1,12 +1,29 @@
 
 
-Monday, November 21, 2022 9:37:56 AM
+Monday, November 21, 2022 9:42:30 AM
 
 PING 208.67.222.222 (208.67.222.222) 56(84) bytes of data.
-[1669048702.602067] 64 bytes from 208.67.222.222: icmp_seq=1 ttl=51 time=26581 ms
-[1669048702.927755] 64 bytes from 208.67.222.222: icmp_seq=2 ttl=51 time=25847 ms
-[1669048704.004736] 64 bytes from 208.67.222.222: icmp_seq=3 ttl=51 time=25900 ms
+[1669048950.120863] 64 bytes from 208.67.222.222: icmp_seq=1 ttl=51 time=29.1 ms
+[1669048951.210556] 64 bytes from 208.67.222.222: icmp_seq=2 ttl=51 time=118 ms
+[1669048952.213843] 64 bytes from 208.67.222.222: icmp_seq=3 ttl=51 time=121 ms
+[1669048953.118564] 64 bytes from 208.67.222.222: icmp_seq=4 ttl=51 time=24.3 ms
+[1669048954.465873] 64 bytes from 208.67.222.222: icmp_seq=5 ttl=51 time=371 ms
+[1669048955.194005] 64 bytes from 208.67.222.222: icmp_seq=6 ttl=51 time=97.7 ms
+[1669048956.214084] 64 bytes from 208.67.222.222: icmp_seq=7 ttl=51 time=117 ms
+[1669048957.278774] 64 bytes from 208.67.222.222: icmp_seq=8 ttl=51 time=180 ms
+[1669048958.620859] 64 bytes from 208.67.222.222: icmp_seq=9 ttl=51 time=522 ms
+[1669048959.246550] 64 bytes from 208.67.222.222: icmp_seq=10 ttl=51 time=146 ms
+[1669048960.145715] 64 bytes from 208.67.222.222: icmp_seq=11 ttl=51 time=44.4 ms
+[1669048961.415695] 64 bytes from 208.67.222.222: icmp_seq=12 ttl=51 time=313 ms
+[1669048962.121588] 64 bytes from 208.67.222.222: icmp_seq=13 ttl=51 time=18.2 ms
+[1669048963.257643] 64 bytes from 208.67.222.222: icmp_seq=14 ttl=51 time=153 ms
+[1669048964.137918] 64 bytes from 208.67.222.222: icmp_seq=15 ttl=51 time=32.6 ms
+[1669048965.136592] 64 bytes from 208.67.222.222: icmp_seq=16 ttl=51 time=30.3 ms
+[1669048966.136525] 64 bytes from 208.67.222.222: icmp_seq=17 ttl=51 time=29.2 ms
+[1669048967.213718] 64 bytes from 208.67.222.222: icmp_seq=18 ttl=51 time=105 ms
+[1669048968.253747] 64 bytes from 208.67.222.222: icmp_seq=19 ttl=51 time=144 ms
+[1669048969.138669] 64 bytes from 208.67.222.222: icmp_seq=20 ttl=51 time=28.4 ms
 
 --- 208.67.222.222 ping statistics ---
-20 packets transmitted, 3 received, 85% packet loss, time 19491ms
-rtt min/avg/max/mdev = 25847.379/26109.616/26581.099/334.089 ms, pipe 20
+20 packets transmitted, 20 received, 0% packet loss, time 19018ms
+rtt min/avg/max/mdev = 18.237/131.261/521.537/128.734 ms

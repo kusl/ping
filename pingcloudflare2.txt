@@ -1,31 +1,31 @@
 
 
-Monday, November 21, 2022 11:43:56 AM
+Monday, November 21, 2022 11:57:16 AM
 
 
 Pinging 1.0.0.1 with 32 bytes of data:
-Reply from 1.0.0.1: bytes=32 time=947ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=688ms TTL=51
-Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=32 time=2675ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=2288ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1659ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1203ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1120ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=648ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=318ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=1616ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=512ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=640ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=946ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=2375ms TTL=51
-Request timed out.
-Reply from 1.0.0.1: bytes=32 time=3577ms TTL=51
-Reply from 1.0.0.1: bytes=32 time=2267ms TTL=51
-Request timed out.
+Reply from 192.168.12.249: Destination host unreachable.
+Reply from 192.168.12.249: Destination host unreachable.
+Reply from 192.168.12.249: Destination host unreachable.
+Reply from 192.168.12.249: Destination host unreachable.
+Reply from 192.168.12.249: Destination host unreachable.
+Reply from 1.0.0.1: bytes=32 time=100ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=139ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=37ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=82ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=30ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=34ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=16ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=31ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=98ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=86ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=113ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=98ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=222ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=219ms TTL=51
+Reply from 1.0.0.1: bytes=32 time=659ms TTL=51
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 318ms, Maximum = 3577ms, Average = 1467ms
+    Minimum = 16ms, Maximum = 659ms, Average = 130ms

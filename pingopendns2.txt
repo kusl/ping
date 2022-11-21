@@ -1,29 +1,31 @@
 
 
-Monday, November 21, 2022 11:51:39 AM
+Monday, November 21, 2022 12:00:47 PM
 
 
 Pinging 208.67.220.220 with 32 bytes of data:
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.249: Destination host unreachable.
+Reply from 208.67.220.220: bytes=32 time=295ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=263ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=375ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=260ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=344ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=494ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=731ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=631ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=966ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=988ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=938ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=774ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=1449ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=1062ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=728ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=878ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=1313ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=1213ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=811ms TTL=51
+Reply from 208.67.220.220: bytes=32 time=835ms TTL=51
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 260ms, Maximum = 1449ms, Average = 767ms

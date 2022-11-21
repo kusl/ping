@@ -1,31 +1,31 @@
-10
+11
 
-Monday, November 21, 2022 11:39:42 AM
+Monday, November 21, 2022 11:54:58 AM
 
 
-Pinging 1.0.0.1 with 10 bytes of data:
-Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=10 time=3014ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=1254ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=2673ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=1873ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=2596ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=2188ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=2296ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=1947ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=2418ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=3684ms TTL=51
+Pinging 1.0.0.1 with 11 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.0.0.1: bytes=10 time=1719ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=2799ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=3754ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=3158ms TTL=51
-Reply from 1.0.0.1: bytes=10 time=3271ms TTL=51
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.0.0.1: bytes=11 time=602ms TTL=52
+Reply from 1.0.0.1: bytes=11 time=293ms TTL=52
+Reply from 1.0.0.1: bytes=11 time=164ms TTL=52
+Reply from 1.0.0.1: bytes=11 time=246ms TTL=52
+Reply from 1.0.0.1: bytes=11 time=43ms TTL=52
+Reply from 1.0.0.1: bytes=11 time=72ms TTL=52
+Reply from 1.0.0.1: bytes=11 time=163ms TTL=52
+Reply from 1.0.0.1: bytes=11 time=28ms TTL=52
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1254ms, Maximum = 3754ms, Average = 2576ms
+    Minimum = 28ms, Maximum = 602ms, Average = 201ms

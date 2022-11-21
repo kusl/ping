@@ -1,31 +1,31 @@
-8
+9
 
-Monday, November 21, 2022 11:24:23 AM
+Monday, November 21, 2022 11:30:09 AM
 
 
-Pinging 8.8.8.8 with 8 bytes of data:
-Reply from 8.8.8.8: bytes=8 time=38ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=208ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=82ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=33ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=35ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=51ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=41ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=91ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=105ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=253ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=38ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=48ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=32ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=198ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=587ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=293ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=113ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=40ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=68ms TTL=113
-Reply from 8.8.8.8: bytes=8 time=117ms TTL=113
+Pinging 8.8.8.8 with 9 bytes of data:
+Reply from 8.8.8.8: bytes=9 time=3281ms TTL=113
+Reply from 8.8.8.8: bytes=9 time=3676ms TTL=113
+Reply from 8.8.8.8: bytes=9 time=3300ms TTL=113
+Request timed out.
+Request timed out.
+Reply from 8.8.8.8: bytes=9 time=2782ms TTL=113
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.8.8.8: bytes=9 time=2937ms TTL=113
+Reply from 8.8.8.8: bytes=9 time=1754ms TTL=113
+Reply from 8.8.8.8: bytes=9 time=2810ms TTL=113
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 32ms, Maximum = 587ms, Average = 123ms
+    Minimum = 1754ms, Maximum = 3676ms, Average = 2934ms

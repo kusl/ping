@@ -1,9 +1,13 @@
-1064
+1065
 
-Monday, November 21, 2022 8:46:39 AM
+Monday, November 21, 2022 8:57:27 AM
 
 
-Pinging 8.20.247.20 with 1064 bytes of data:
+Pinging 8.20.247.20 with 1065 bytes of data:
+Reply from 8.20.247.20: bytes=1065 time=2854ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=2360ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=1096ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=522ms TTL=45
 Request timed out.
 Request timed out.
 Request timed out.
@@ -11,19 +15,17 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 8.20.247.20: bytes=1065 time=1017ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=904ms TTL=45
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 8.20.247.20: bytes=1065 time=1103ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=420ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=488ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=141ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=134ms TTL=45
+Reply from 8.20.247.20: bytes=1065 time=166ms TTL=45
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 134ms, Maximum = 2854ms, Average = 933ms

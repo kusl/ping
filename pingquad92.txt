@@ -1,26 +1,29 @@
 
 
-Wednesday, November 23, 2022 8:26:33 PM
+Wednesday, November 23, 2022 8:31:03 PM
 
 PING 149.112.112.112 (149.112.112.112) 56(84) bytes of data.
-[1669260394.354579] 64 bytes from 149.112.112.112: icmp_seq=1 ttl=55 time=793 ms
-[1669260394.999661] 64 bytes from 149.112.112.112: icmp_seq=2 ttl=55 time=439 ms
-[1669260395.797916] 64 bytes from 149.112.112.112: icmp_seq=3 ttl=55 time=237 ms
-[1669260396.643058] 64 bytes from 149.112.112.112: icmp_seq=4 ttl=55 time=81.2 ms
-[1669260397.673996] 64 bytes from 149.112.112.112: icmp_seq=5 ttl=55 time=112 ms
-[1669260398.960118] 64 bytes from 149.112.112.112: icmp_seq=6 ttl=55 time=399 ms
-[1669260400.252411] 64 bytes from 149.112.112.112: icmp_seq=7 ttl=55 time=692 ms
-[1669260400.876966] 64 bytes from 149.112.112.112: icmp_seq=8 ttl=55 time=316 ms
-[1669260402.143035] 64 bytes from 149.112.112.112: icmp_seq=9 ttl=55 time=582 ms
-[1669260403.241897] 64 bytes from 149.112.112.112: icmp_seq=10 ttl=55 time=681 ms
-[1669260404.279732] 64 bytes from 149.112.112.112: icmp_seq=11 ttl=55 time=719 ms
-[1669260404.976147] 64 bytes from 149.112.112.112: icmp_seq=12 ttl=55 time=416 ms
-[1669260407.125951] 64 bytes from 149.112.112.112: icmp_seq=14 ttl=55 time=549 ms
-[1669260407.681220] 64 bytes from 149.112.112.112: icmp_seq=15 ttl=55 time=104 ms
-[1669260409.273118] 64 bytes from 149.112.112.112: icmp_seq=16 ttl=55 time=695 ms
-[1669260410.134848] 64 bytes from 149.112.112.112: icmp_seq=17 ttl=55 time=556 ms
-[1669260412.437612] 64 bytes from 149.112.112.112: icmp_seq=19 ttl=55 time=803 ms
+[1669260664.370293] 64 bytes from 149.112.112.112: icmp_seq=1 ttl=55 time=410 ms
+[1669260665.139130] 64 bytes from 149.112.112.112: icmp_seq=2 ttl=55 time=177 ms
+[1669260666.030116] 64 bytes from 149.112.112.112: icmp_seq=3 ttl=55 time=67.0 ms
+[1669260667.079292] 64 bytes from 149.112.112.112: icmp_seq=4 ttl=55 time=115 ms
+[1669260668.060250] 64 bytes from 149.112.112.112: icmp_seq=5 ttl=55 time=94.9 ms
+[1669260669.385208] 64 bytes from 149.112.112.112: icmp_seq=6 ttl=55 time=419 ms
+[1669260670.431418] 64 bytes from 149.112.112.112: icmp_seq=7 ttl=55 time=464 ms
+[1669260671.230679] 64 bytes from 149.112.112.112: icmp_seq=8 ttl=55 time=263 ms
+[1669260672.117279] 64 bytes from 149.112.112.112: icmp_seq=9 ttl=55 time=148 ms
+[1669260673.139252] 64 bytes from 149.112.112.112: icmp_seq=10 ttl=55 time=168 ms
+[1669260674.033281] 64 bytes from 149.112.112.112: icmp_seq=11 ttl=55 time=61.0 ms
+[1669260675.193260] 64 bytes from 149.112.112.112: icmp_seq=12 ttl=55 time=220 ms
+[1669260676.005105] 64 bytes from 149.112.112.112: icmp_seq=13 ttl=55 time=29.9 ms
+[1669260677.149445] 64 bytes from 149.112.112.112: icmp_seq=14 ttl=55 time=174 ms
+[1669260678.033143] 64 bytes from 149.112.112.112: icmp_seq=15 ttl=55 time=56.7 ms
+[1669260679.010064] 64 bytes from 149.112.112.112: icmp_seq=16 ttl=55 time=31.8 ms
+[1669260680.438148] 64 bytes from 149.112.112.112: icmp_seq=17 ttl=55 time=458 ms
+[1669260681.162210] 64 bytes from 149.112.112.112: icmp_seq=18 ttl=55 time=181 ms
+[1669260682.023189] 64 bytes from 149.112.112.112: icmp_seq=19 ttl=55 time=41.0 ms
+[1669260683.099325] 64 bytes from 149.112.112.112: icmp_seq=20 ttl=55 time=116 ms
 
 --- 149.112.112.112 ping statistics ---
-20 packets transmitted, 17 received, 15% packet loss, time 19073ms
-rtt min/avg/max/mdev = 81.230/480.806/803.264/236.003 ms
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 29.886/184.754/464.428/141.187 ms

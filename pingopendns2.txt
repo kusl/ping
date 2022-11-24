@@ -1,23 +1,29 @@
 
 
-Wednesday, November 23, 2022 8:10:29 PM
+Wednesday, November 23, 2022 8:14:40 PM
 
 PING 208.67.220.220 (208.67.220.220) 56(84) bytes of data.
-[1669259430.194865] 64 bytes from 208.67.220.220: icmp_seq=1 ttl=52 time=756 ms
-[1669259431.162960] 64 bytes from 208.67.220.220: icmp_seq=2 ttl=52 time=725 ms
-[1669259433.135976] 64 bytes from 208.67.220.220: icmp_seq=4 ttl=52 time=639 ms
-[1669259434.225374] 64 bytes from 208.67.220.220: icmp_seq=5 ttl=52 time=728 ms
-[1669259436.255040] 64 bytes from 208.67.220.220: icmp_seq=7 ttl=52 time=750 ms
-[1669259437.238070] 64 bytes from 208.67.220.220: icmp_seq=8 ttl=52 time=733 ms
-[1669259438.201491] 64 bytes from 208.67.220.220: icmp_seq=9 ttl=52 time=696 ms
-[1669259439.263784] 64 bytes from 208.67.220.220: icmp_seq=10 ttl=52 time=759 ms
-[1669259442.307083] 64 bytes from 208.67.220.220: icmp_seq=13 ttl=52 time=722 ms
-[1669259443.312278] 64 bytes from 208.67.220.220: icmp_seq=14 ttl=52 time=727 ms
-[1669259444.273162] 64 bytes from 208.67.220.220: icmp_seq=15 ttl=52 time=689 ms
-[1669259446.369025] 64 bytes from 208.67.220.220: icmp_seq=17 ttl=52 time=752 ms
-[1669259448.322063] 64 bytes from 208.67.220.220: icmp_seq=19 ttl=52 time=657 ms
-[1669259449.433916] 64 bytes from 208.67.220.220: icmp_seq=20 ttl=52 time=767 ms
+[1669259680.501585] 64 bytes from 208.67.220.220: icmp_seq=1 ttl=52 time=71.5 ms
+[1669259681.736926] 64 bytes from 208.67.220.220: icmp_seq=2 ttl=52 time=305 ms
+[1669259682.677036] 64 bytes from 208.67.220.220: icmp_seq=3 ttl=52 time=245 ms
+[1669259683.786349] 64 bytes from 208.67.220.220: icmp_seq=4 ttl=52 time=355 ms
+[1669259684.458242] 64 bytes from 208.67.220.220: icmp_seq=5 ttl=52 time=26.1 ms
+[1669259685.705997] 64 bytes from 208.67.220.220: icmp_seq=6 ttl=52 time=273 ms
+[1669259686.661987] 64 bytes from 208.67.220.220: icmp_seq=7 ttl=52 time=228 ms
+[1669259687.538917] 64 bytes from 208.67.220.220: icmp_seq=8 ttl=52 time=105 ms
+[1669259688.638150] 64 bytes from 208.67.220.220: icmp_seq=9 ttl=52 time=203 ms
+[1669259689.785126] 64 bytes from 208.67.220.220: icmp_seq=10 ttl=52 time=350 ms
+[1669259690.885245] 64 bytes from 208.67.220.220: icmp_seq=11 ttl=52 time=451 ms
+[1669259691.673005] 64 bytes from 208.67.220.220: icmp_seq=12 ttl=52 time=239 ms
+[1669259692.817992] 64 bytes from 208.67.220.220: icmp_seq=13 ttl=52 time=384 ms
+[1669259693.520756] 64 bytes from 208.67.220.220: icmp_seq=14 ttl=52 time=87.0 ms
+[1669259694.517726] 64 bytes from 208.67.220.220: icmp_seq=15 ttl=52 time=82.9 ms
+[1669259695.463787] 64 bytes from 208.67.220.220: icmp_seq=16 ttl=52 time=28.0 ms
+[1669259696.714720] 64 bytes from 208.67.220.220: icmp_seq=17 ttl=52 time=278 ms
+[1669259697.944882] 64 bytes from 208.67.220.220: icmp_seq=18 ttl=52 time=507 ms
+[1669259698.791079] 64 bytes from 208.67.220.220: icmp_seq=19 ttl=52 time=354 ms
+[1669259700.022994] 64 bytes from 208.67.220.220: icmp_seq=20 ttl=52 time=585 ms
 
 --- 208.67.220.220 ping statistics ---
-20 packets transmitted, 14 received, 30% packet loss, time 19228ms
-rtt min/avg/max/mdev = 638.577/721.243/767.387/37.224 ms
+20 packets transmitted, 20 received, 0% packet loss, time 19008ms
+rtt min/avg/max/mdev = 26.053/257.885/585.143/155.134 ms

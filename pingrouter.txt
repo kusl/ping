@@ -1,18 +1,9 @@
-15
+16
 
-Sunday, November 27, 2022 5:39:01 PM
+Sunday, November 27, 2022 5:53:13 PM
 
 
-Pinging 192.168.12.1 with 15 bytes of data:
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-Reply from 192.168.12.1: bytes=15 time=1ms TTL=64
-General failure.
+Pinging 192.168.12.1 with 16 bytes of data:
 Reply from 192.168.12.146: Destination host unreachable.
 Request timed out.
 Reply from 192.168.12.146: Destination host unreachable.
@@ -20,12 +11,19 @@ Request timed out.
 Request timed out.
 Reply from 192.168.12.146: Destination host unreachable.
 Request timed out.
+Request timed out.
 Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
+Reply from 192.168.12.146: Destination host unreachable.
+Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 192.168.12.146: Destination host unreachable.
+Request timed out.
 Request timed out.
 Request timed out.
 Reply from 192.168.12.146: Destination host unreachable.
 
 Ping statistics for 192.168.12.1:
-    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 1ms, Average = 1ms
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),

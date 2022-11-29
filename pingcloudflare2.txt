@@ -1,29 +1,29 @@
 
 
-Tuesday, November 29, 2022 7:35:17 AM
+Tuesday, November 29, 2022 7:39:08 AM
 
 PING 1.0.0.1 (1.0.0.1) 56(84) bytes of data.
-[1669732517.298707] 64 bytes from 1.0.0.1: icmp_seq=1 ttl=52 time=14.5 ms
-[1669732518.309533] 64 bytes from 1.0.0.1: icmp_seq=2 ttl=52 time=23.7 ms
-[1669732519.309964] 64 bytes from 1.0.0.1: icmp_seq=3 ttl=52 time=22.5 ms
-[1669732520.304950] 64 bytes from 1.0.0.1: icmp_seq=4 ttl=52 time=15.8 ms
-[1669732521.314560] 64 bytes from 1.0.0.1: icmp_seq=5 ttl=52 time=24.0 ms
-[1669732522.314065] 64 bytes from 1.0.0.1: icmp_seq=6 ttl=52 time=22.4 ms
-[1669732523.308967] 64 bytes from 1.0.0.1: icmp_seq=7 ttl=52 time=15.8 ms
-[1669732524.320617] 64 bytes from 1.0.0.1: icmp_seq=8 ttl=52 time=25.5 ms
-[1669732525.314499] 64 bytes from 1.0.0.1: icmp_seq=9 ttl=52 time=17.8 ms
-[1669732526.350295] 64 bytes from 1.0.0.1: icmp_seq=10 ttl=52 time=51.6 ms
-[1669732527.330792] 64 bytes from 1.0.0.1: icmp_seq=11 ttl=52 time=31.3 ms
-[1669732528.330008] 64 bytes from 1.0.0.1: icmp_seq=12 ttl=52 time=29.6 ms
-[1669732529.330224] 64 bytes from 1.0.0.1: icmp_seq=13 ttl=52 time=28.1 ms
-[1669732530.319601] 64 bytes from 1.0.0.1: icmp_seq=14 ttl=52 time=16.3 ms
-[1669732531.349518] 64 bytes from 1.0.0.1: icmp_seq=15 ttl=52 time=44.8 ms
-[1669732532.350250] 64 bytes from 1.0.0.1: icmp_seq=16 ttl=52 time=43.6 ms
-[1669732533.325040] 64 bytes from 1.0.0.1: icmp_seq=17 ttl=52 time=16.7 ms
-[1669732534.328290] 64 bytes from 1.0.0.1: icmp_seq=18 ttl=52 time=18.2 ms
-[1669732535.330347] 64 bytes from 1.0.0.1: icmp_seq=19 ttl=52 time=18.9 ms
-[1669732536.390566] 64 bytes from 1.0.0.1: icmp_seq=20 ttl=52 time=78.2 ms
+[1669732748.476770] 64 bytes from 1.0.0.1: icmp_seq=1 ttl=52 time=241 ms
+[1669732749.253306] 64 bytes from 1.0.0.1: icmp_seq=2 ttl=52 time=16.7 ms
+[1669732750.253688] 64 bytes from 1.0.0.1: icmp_seq=3 ttl=52 time=16.2 ms
+[1669732751.298271] 64 bytes from 1.0.0.1: icmp_seq=4 ttl=52 time=59.8 ms
+[1669732752.254922] 64 bytes from 1.0.0.1: icmp_seq=5 ttl=52 time=15.0 ms
+[1669732753.259065] 64 bytes from 1.0.0.1: icmp_seq=6 ttl=52 time=18.0 ms
+[1669732754.264504] 64 bytes from 1.0.0.1: icmp_seq=7 ttl=52 time=22.3 ms
+[1669732755.265074] 64 bytes from 1.0.0.1: icmp_seq=8 ttl=52 time=21.9 ms
+[1669732756.258548] 64 bytes from 1.0.0.1: icmp_seq=9 ttl=52 time=14.4 ms
+[1669732757.291141] 64 bytes from 1.0.0.1: icmp_seq=10 ttl=52 time=45.5 ms
+[1669732758.269004] 64 bytes from 1.0.0.1: icmp_seq=11 ttl=52 time=22.5 ms
+[1669732759.263891] 64 bytes from 1.0.0.1: icmp_seq=12 ttl=52 time=16.4 ms
+[1669732760.269250] 64 bytes from 1.0.0.1: icmp_seq=13 ttl=52 time=20.3 ms
+[1669732761.268313] 64 bytes from 1.0.0.1: icmp_seq=14 ttl=52 time=18.9 ms
+[1669732762.276260] 64 bytes from 1.0.0.1: icmp_seq=15 ttl=52 time=24.9 ms
+[1669732763.268425] 64 bytes from 1.0.0.1: icmp_seq=16 ttl=52 time=15.1 ms
+[1669732764.279898] 64 bytes from 1.0.0.1: icmp_seq=17 ttl=52 time=25.4 ms
+[1669732765.274402] 64 bytes from 1.0.0.1: icmp_seq=18 ttl=52 time=18.8 ms
+[1669732766.273634] 64 bytes from 1.0.0.1: icmp_seq=19 ttl=52 time=16.2 ms
+[1669732767.274021] 64 bytes from 1.0.0.1: icmp_seq=20 ttl=52 time=15.5 ms
 
 --- 1.0.0.1 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19028ms
-rtt min/avg/max/mdev = 14.536/27.958/78.169/15.407 ms
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 14.358/33.227/240.941/48.876 ms

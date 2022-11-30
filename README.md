@@ -27,3 +27,7 @@ info No lockfile found.
 success Saved lockfile.
 Done in 0.05s.
 ```
+```bash
+Need to install the following packages:
+  browserslist@4.21.4
+Ok to proceed? (y) 

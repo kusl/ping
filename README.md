@@ -15,3 +15,15 @@ System Storage
 322M	.
 ```
 ```bash
+yarn run v1.22.19
+error Couldn't find a package.json file in "/home/kushal/src/dotnet/ping"
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn install v1.22.19
+info No lockfile found.
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+Done in 0.05s.
+```

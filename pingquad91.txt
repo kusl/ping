@@ -1,24 +1,24 @@
-465
+466
 
-Wednesday, November 30, 2022 7:54:49 PM
+Wednesday, November 30, 2022 8:14:03 PM
 
 
-Pinging 9.9.9.9 with 465 bytes of data:
+Pinging 9.9.9.9 with 466 bytes of data:
+Request timed out.
+Reply from 9.9.9.9: bytes=466 time=3444ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 9.9.9.9: bytes=466 time=490ms TTL=55
+Reply from 9.9.9.9: bytes=466 time=805ms TTL=55
+Reply from 9.9.9.9: bytes=466 time=641ms TTL=55
+Reply from 9.9.9.9: bytes=466 time=586ms TTL=55
+Reply from 9.9.9.9: bytes=466 time=2278ms TTL=55
 Request timed out.
 Request timed out.
+Reply from 9.9.9.9: bytes=466 time=2503ms TTL=55
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 9.9.9.9: bytes=466 time=3040ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
@@ -26,4 +26,6 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 490ms, Maximum = 3444ms, Average = 1723ms

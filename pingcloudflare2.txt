@@ -1,9 +1,15 @@
-465
+466
 
-Wednesday, November 30, 2022 7:50:21 PM
+Wednesday, November 30, 2022 8:09:09 PM
 
 
-Pinging 1.0.0.1 with 465 bytes of data:
+Pinging 1.0.0.1 with 466 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 1.0.0.1: bytes=466 time=3108ms TTL=52
 Request timed out.
 Request timed out.
 Request timed out.
@@ -16,14 +22,10 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 1.0.0.1: bytes=466 time=3824ms TTL=52
 Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3108ms, Maximum = 3824ms, Average = 3466ms

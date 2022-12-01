@@ -1,9 +1,14 @@
-467
+468
 
-Wednesday, November 30, 2022 8:32:43 PM
+Wednesday, November 30, 2022 8:52:45 PM
 
 
-Pinging 149.112.112.112 with 467 bytes of data:
+Pinging 149.112.112.112 with 468 bytes of data:
+Reply from 149.112.112.112: bytes=468 time=1528ms TTL=55
+Request timed out.
+Request timed out.
+Reply from 149.112.112.112: bytes=468 time=2855ms TTL=55
+Reply from 149.112.112.112: bytes=468 time=445ms TTL=55
 Request timed out.
 Request timed out.
 Request timed out.
@@ -14,16 +19,13 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 149.112.112.112: bytes=468 time=2147ms TTL=55
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 149.112.112.112: bytes=468 time=3320ms TTL=55
 Request timed out.
 Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 445ms, Maximum = 3320ms, Average = 2059ms

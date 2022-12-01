@@ -21,3 +21,9 @@ PING 8.26.56.26 (8.26.56.26) 56(84) bytes of data.
 [1669895336.517581] 64 bytes from 8.26.56.26: icmp_seq=16 ttl=46 time=344 ms
 [1669895337.554119] 64 bytes from 8.26.56.26: icmp_seq=17 ttl=46 time=380 ms
 [1669895338.205757] 64 bytes from 8.26.56.26: icmp_seq=18 ttl=46 time=29.9 ms
+[1669895339.308277] 64 bytes from 8.26.56.26: icmp_seq=19 ttl=46 time=130 ms
+[1669895340.307943] 64 bytes from 8.26.56.26: icmp_seq=20 ttl=46 time=129 ms
+
+--- 8.26.56.26 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 21.342/84.526/379.761/98.891 ms

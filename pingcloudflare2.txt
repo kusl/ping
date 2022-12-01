@@ -1,24 +1,15 @@
 
 
-Wednesday, November 30, 2022 7:49:28 PM
+Wednesday, November 30, 2022 7:57:51 PM
 
 PING 1.0.0.1 (1.0.0.1) 56(84) bytes of data.
-[1669862983.607432] 64 bytes from 1.0.0.1: icmp_seq=1 ttl=52 time=15071 ms
-[1669862986.818065] 64 bytes from 1.0.0.1: icmp_seq=2 ttl=52 time=17249 ms
-[1669862986.819415] 64 bytes from 1.0.0.1: icmp_seq=3 ttl=52 time=16226 ms
-[1669862986.833964] 64 bytes from 1.0.0.1: icmp_seq=4 ttl=52 time=15217 ms
-[1669862991.641845] 64 bytes from 1.0.0.1: icmp_seq=5 ttl=52 time=19000 ms
-[1669862992.925151] 64 bytes from 1.0.0.1: icmp_seq=6 ttl=52 time=19260 ms
-[1669862994.507078] 64 bytes from 1.0.0.1: icmp_seq=7 ttl=52 time=19818 ms
-[1669862994.873279] 64 bytes from 1.0.0.1: icmp_seq=8 ttl=52 time=19160 ms
-[1669862997.203664] 64 bytes from 1.0.0.1: icmp_seq=10 ttl=52 time=19442 ms
-[1669862998.509326] 64 bytes from 1.0.0.1: icmp_seq=12 ttl=52 time=18700 ms
-[1669862998.511522] 64 bytes from 1.0.0.1: icmp_seq=13 ttl=52 time=17678 ms
-[1669862998.511922] 64 bytes from 1.0.0.1: icmp_seq=14 ttl=52 time=16655 ms
-[1669862998.514434] 64 bytes from 1.0.0.1: icmp_seq=15 ttl=52 time=15633 ms
-[1669863000.266676] 64 bytes from 1.0.0.1: icmp_seq=16 ttl=52 time=16386 ms
-[1669863003.175276] 64 bytes from 1.0.0.1: icmp_seq=19 ttl=52 time=16222 ms
+[1669863474.209426] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
+[1669863480.353401] From 192.168.12.133 icmp_seq=8 Destination Host Unreachable
+[1669863480.353462] From 192.168.12.133 icmp_seq=9 Destination Host Unreachable
+[1669863486.497367] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
+[1669863489.569367] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
+[1669863492.641395] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 1.0.0.1 ping statistics ---
-20 packets transmitted, 15 received, 25% packet loss, time 19464ms
-rtt min/avg/max/mdev = 15070.597/17447.722/19817.718/1603.224 ms, pipe 17
+20 packets transmitted, 0 received, +6 errors, 100% packet loss, time 19445ms
+pipe 4

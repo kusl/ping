@@ -1,27 +1,12 @@
 
 
-Wednesday, November 30, 2022 6:38:18 PM
+Wednesday, November 30, 2022 6:45:43 PM
 
 PING 208.67.222.222 (208.67.222.222) 56(84) bytes of data.
-[1669858705.492129] 64 bytes from 208.67.222.222: icmp_seq=1 ttl=52 time=7288 ms
-[1669858707.271428] 64 bytes from 208.67.222.222: icmp_seq=2 ttl=52 time=8038 ms
-[1669858708.118081] 64 bytes from 208.67.222.222: icmp_seq=3 ttl=52 time=7861 ms
-[1669858710.030294] 64 bytes from 208.67.222.222: icmp_seq=4 ttl=52 time=8749 ms
-[1669858711.515266] 64 bytes from 208.67.222.222: icmp_seq=5 ttl=52 time=9210 ms
-[1669858711.637579] 64 bytes from 208.67.222.222: icmp_seq=6 ttl=52 time=8308 ms
-[1669858713.513383] 64 bytes from 208.67.222.222: icmp_seq=7 ttl=52 time=9160 ms
-[1669858714.979302] 64 bytes from 208.67.222.222: icmp_seq=9 ttl=52 time=8600 ms
-[1669858716.390967] 64 bytes from 208.67.222.222: icmp_seq=10 ttl=52 time=9011 ms
-[1669858717.988943] 64 bytes from 208.67.222.222: icmp_seq=11 ttl=52 time=9608 ms
-[1669858718.240866] 64 bytes from 208.67.222.222: icmp_seq=12 ttl=52 time=8832 ms
-[1669858719.235303] 64 bytes from 208.67.222.222: icmp_seq=13 ttl=52 time=8825 ms
-[1669858719.644603] 64 bytes from 208.67.222.222: icmp_seq=15 ttl=52 time=7186 ms
-[1669858719.652086] 64 bytes from 208.67.222.222: icmp_seq=16 ttl=52 time=6147 ms
-[1669858719.657541] 64 bytes from 208.67.222.222: icmp_seq=17 ttl=52 time=5151 ms
-[1669858719.664693] 64 bytes from 208.67.222.222: icmp_seq=18 ttl=52 time=4157 ms
-[1669858719.665173] 64 bytes from 208.67.222.222: icmp_seq=19 ttl=52 time=3158 ms
-[1669858720.001413] 64 bytes from 208.67.222.222: icmp_seq=20 ttl=52 time=2464 ms
+[1669859168.100532] 64 bytes from 208.67.222.222: icmp_seq=1 ttl=52 time=24290 ms
+[1669859171.162294] 64 bytes from 208.67.222.222: icmp_seq=2 ttl=52 time=26297 ms
+[1669859171.853337] 64 bytes from 208.67.222.222: icmp_seq=3 ttl=52 time=25964 ms
 
 --- 208.67.222.222 ping statistics ---
-20 packets transmitted, 18 received, 10% packet loss, time 19334ms
-rtt min/avg/max/mdev = 2464.047/7319.656/9608.411/2135.415 ms, pipe 10
+20 packets transmitted, 3 received, 85% packet loss, time 19486ms
+rtt min/avg/max/mdev = 24289.600/25516.830/26296.928/878.364 ms, pipe 20

@@ -170,3 +170,10 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 20 packets transmitted, 20 received, 0% packet loss, time 920ms
 rtt min/avg/max/mdev = 18.813/58.554/216.025/53.851 ms, pipe 6, ipg/ewma 48.434/46.305 ms
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+[1669892538.933137] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=114 time=28.0 ms
+[1669892539.934641] 64 bytes from 8.8.8.8: icmp_seq=2 ttl=114 time=28.4 ms
+
+--- 8.8.8.8 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 28.022/28.189/28.357/0.167 ms

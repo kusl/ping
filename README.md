@@ -50,3 +50,7 @@ Error [BrowserslistUpdateError]: Cannot find package.json. Is this the right dir
 Node.js v18.12.1
 ```
 ```bash
+yarn run v1.22.19
+error Couldn't find a package.json file in "/home/kushal/src/dotnet/ping"
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+```

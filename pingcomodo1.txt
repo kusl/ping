@@ -1,29 +1,31 @@
-469
+470
 
-Wednesday, November 30, 2022 9:14:24 PM
+Wednesday, November 30, 2022 9:30:11 PM
 
 
-Pinging 8.26.56.26 with 469 bytes of data:
+Pinging 8.26.56.26 with 470 bytes of data:
+Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.12.206: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 8.26.56.26: bytes=470 time=17ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=24ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=336ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=18ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=126ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=48ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=33ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=48ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=22ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=46ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=43ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=41ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=32ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=14ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=86ms TTL=46
+Reply from 8.26.56.26: bytes=470 time=27ms TTL=46
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 336ms, Average = 60ms

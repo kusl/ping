@@ -22,3 +22,8 @@ PING 192.168.12.1 (192.168.12.1) 56(84) bytes of data.
 [1669892848.994030] 64 bytes from 192.168.12.1: icmp_seq=17 ttl=64 time=0.651 ms
 [1669892850.017947] 64 bytes from 192.168.12.1: icmp_seq=18 ttl=64 time=0.655 ms
 [1669892851.042295] 64 bytes from 192.168.12.1: icmp_seq=19 ttl=64 time=0.911 ms
+[1669892852.043209] 64 bytes from 192.168.12.1: icmp_seq=20 ttl=64 time=0.787 ms
+
+--- 192.168.12.1 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19419ms
+rtt min/avg/max/mdev = 0.561/0.697/0.911/0.103 ms

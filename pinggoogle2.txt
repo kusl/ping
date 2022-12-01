@@ -1,14 +1,29 @@
 
 
-Wednesday, November 30, 2022 8:30:05 PM
+Wednesday, November 30, 2022 8:34:10 PM
 
 PING 8.8.4.4 (8.8.4.4) 56(84) bytes of data.
-[1669865405.631165] From 192.168.12.1 icmp_seq=1 Destination Net Unreachable
-[1669865406.631780] From 192.168.12.1 icmp_seq=2 Destination Net Unreachable
-[1669865407.649920] From 192.168.12.1 icmp_seq=3 Destination Net Unreachable
-[1669865408.673952] From 192.168.12.1 icmp_seq=4 Destination Net Unreachable
-[1669865425.107988] 64 bytes from 8.8.4.4: icmp_seq=20 ttl=113 time=50.6 ms
+[1669865650.768717] 64 bytes from 8.8.4.4: icmp_seq=1 ttl=113 time=51.9 ms
+[1669865651.755157] 64 bytes from 8.8.4.4: icmp_seq=2 ttl=113 time=37.3 ms
+[1669865652.790375] 64 bytes from 8.8.4.4: icmp_seq=3 ttl=113 time=71.1 ms
+[1669865653.747091] 64 bytes from 8.8.4.4: icmp_seq=4 ttl=113 time=27.5 ms
+[1669865654.788112] 64 bytes from 8.8.4.4: icmp_seq=5 ttl=113 time=66.9 ms
+[1669865655.747345] 64 bytes from 8.8.4.4: icmp_seq=6 ttl=113 time=24.2 ms
+[1669865656.749860] 64 bytes from 8.8.4.4: icmp_seq=7 ttl=113 time=25.4 ms
+[1669865657.752651] 64 bytes from 8.8.4.4: icmp_seq=8 ttl=113 time=26.7 ms
+[1669865658.757318] 64 bytes from 8.8.4.4: icmp_seq=9 ttl=113 time=29.6 ms
+[1669865659.766863] 64 bytes from 8.8.4.4: icmp_seq=10 ttl=113 time=37.4 ms
+[1669865660.770079] 64 bytes from 8.8.4.4: icmp_seq=11 ttl=113 time=39.1 ms
+[1669865661.768042] 64 bytes from 8.8.4.4: icmp_seq=12 ttl=113 time=35.9 ms
+[1669865662.767370] 64 bytes from 8.8.4.4: icmp_seq=13 ttl=113 time=33.2 ms
+[1669865663.787911] 64 bytes from 8.8.4.4: icmp_seq=14 ttl=113 time=52.4 ms
+[1669865664.767827] 64 bytes from 8.8.4.4: icmp_seq=15 ttl=113 time=30.8 ms
+[1669865665.767425] 64 bytes from 8.8.4.4: icmp_seq=16 ttl=113 time=28.5 ms
+[1669865666.762206] 64 bytes from 8.8.4.4: icmp_seq=17 ttl=113 time=21.7 ms
+[1669865667.770085] 64 bytes from 8.8.4.4: icmp_seq=18 ttl=113 time=27.7 ms
+[1669865668.769997] 64 bytes from 8.8.4.4: icmp_seq=19 ttl=113 time=25.8 ms
+[1669865669.767797] 64 bytes from 8.8.4.4: icmp_seq=20 ttl=113 time=21.7 ms
 
 --- 8.8.4.4 ping statistics ---
-20 packets transmitted, 1 received, +4 errors, 95% packet loss, time 19427ms
-rtt min/avg/max/mdev = 50.600/50.600/50.600/0.000 ms
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 21.666/35.736/71.075/13.872 ms

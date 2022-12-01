@@ -48,3 +48,7 @@ yarn run v1.22.19
 error Couldn't find a package.json file in "/home/kushal/src/dotnet/ping"
 info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
 ```
+Thu Dec  1 04:48:39 AM MST 2022
+Thu Dec  1 04:48:58 AM MST 2022
+yarn version v1.22.19
+info Visit https://yarnpkg.com/en/docs/cli/version for documentation about this command.

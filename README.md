@@ -23,3 +23,24 @@ yarn install v1.22.19
 success Already up-to-date.
 Done in 0.04s.
 ```
+```bash
+
+/home/kushal/.npm/_npx/dfe501f65114de76/node_modules/update-browserslist-db/index.js:31
+    throw new BrowserslistUpdateError(
+    ^
+Error [BrowserslistUpdateError]: Cannot find package.json. Is this the right directory to run `npx update-browserslist-db` in?
+    at detectLockfile (/home/kushal/.npm/_npx/dfe501f65114de76/node_modules/update-browserslist-db/index.js:31:11)
+    at updateDB (/home/kushal/.npm/_npx/dfe501f65114de76/node_modules/update-browserslist-db/index.js:263:14)
+    at Object.<anonymous> (/home/kushal/.npm/_npx/dfe501f65114de76/node_modules/browserslist/cli.js:42:3)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {
+  browserslist: true
+}
+
+Node.js v18.12.1
+```
+```bash

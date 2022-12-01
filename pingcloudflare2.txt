@@ -1,18 +1,24 @@
 
 
-Wednesday, November 30, 2022 7:41:18 PM
+Wednesday, November 30, 2022 7:49:28 PM
 
 PING 1.0.0.1 (1.0.0.1) 56(84) bytes of data.
-[1669862501.826913] 64 bytes from 1.0.0.1: icmp_seq=1 ttl=52 time=23318 ms
-[1669862501.832206] 64 bytes from 1.0.0.1: icmp_seq=2 ttl=52 time=22311 ms
-[1669862501.835919] 64 bytes from 1.0.0.1: icmp_seq=3 ttl=52 time=21291 ms
-[1669862507.296877] 64 bytes from 1.0.0.1: icmp_seq=4 ttl=52 time=25727 ms
-[1669862507.298385] 64 bytes from 1.0.0.1: icmp_seq=5 ttl=52 time=24704 ms
-[1669862507.378633] 64 bytes from 1.0.0.1: icmp_seq=6 ttl=52 time=23761 ms
-[1669862507.382107] 64 bytes from 1.0.0.1: icmp_seq=7 ttl=52 time=22741 ms
-[1669862507.411819] 64 bytes from 1.0.0.1: icmp_seq=8 ttl=52 time=21746 ms
-[1669862507.428352] 64 bytes from 1.0.0.1: icmp_seq=9 ttl=52 time=20739 ms
+[1669862983.607432] 64 bytes from 1.0.0.1: icmp_seq=1 ttl=52 time=15071 ms
+[1669862986.818065] 64 bytes from 1.0.0.1: icmp_seq=2 ttl=52 time=17249 ms
+[1669862986.819415] 64 bytes from 1.0.0.1: icmp_seq=3 ttl=52 time=16226 ms
+[1669862986.833964] 64 bytes from 1.0.0.1: icmp_seq=4 ttl=52 time=15217 ms
+[1669862991.641845] 64 bytes from 1.0.0.1: icmp_seq=5 ttl=52 time=19000 ms
+[1669862992.925151] 64 bytes from 1.0.0.1: icmp_seq=6 ttl=52 time=19260 ms
+[1669862994.507078] 64 bytes from 1.0.0.1: icmp_seq=7 ttl=52 time=19818 ms
+[1669862994.873279] 64 bytes from 1.0.0.1: icmp_seq=8 ttl=52 time=19160 ms
+[1669862997.203664] 64 bytes from 1.0.0.1: icmp_seq=10 ttl=52 time=19442 ms
+[1669862998.509326] 64 bytes from 1.0.0.1: icmp_seq=12 ttl=52 time=18700 ms
+[1669862998.511522] 64 bytes from 1.0.0.1: icmp_seq=13 ttl=52 time=17678 ms
+[1669862998.511922] 64 bytes from 1.0.0.1: icmp_seq=14 ttl=52 time=16655 ms
+[1669862998.514434] 64 bytes from 1.0.0.1: icmp_seq=15 ttl=52 time=15633 ms
+[1669863000.266676] 64 bytes from 1.0.0.1: icmp_seq=16 ttl=52 time=16386 ms
+[1669863003.175276] 64 bytes from 1.0.0.1: icmp_seq=19 ttl=52 time=16222 ms
 
 --- 1.0.0.1 ping statistics ---
-20 packets transmitted, 9 received, 55% packet loss, time 19445ms
-rtt min/avg/max/mdev = 20738.976/22926.519/25727.485/1531.992 ms, pipe 20
+20 packets transmitted, 15 received, 25% packet loss, time 19464ms
+rtt min/avg/max/mdev = 15070.597/17447.722/19817.718/1603.224 ms, pipe 17

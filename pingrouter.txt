@@ -1,29 +1,20 @@
 
 
-Thursday, December 1, 2022 3:27:40 PM
+Thursday, December 1, 2022 3:32:36 PM
 
 PING 192.168.12.1 (192.168.12.1) 56(84) bytes of data.
-[1669933660.206307] 64 bytes from 192.168.12.1: icmp_seq=1 ttl=64 time=0.607 ms
-[1669933661.218269] 64 bytes from 192.168.12.1: icmp_seq=2 ttl=64 time=0.864 ms
-[1669933662.242266] 64 bytes from 192.168.12.1: icmp_seq=3 ttl=64 time=0.875 ms
-[1669933663.266061] 64 bytes from 192.168.12.1: icmp_seq=4 ttl=64 time=0.687 ms
-[1669933664.290051] 64 bytes from 192.168.12.1: icmp_seq=5 ttl=64 time=0.709 ms
-[1669933665.314252] 64 bytes from 192.168.12.1: icmp_seq=6 ttl=64 time=0.866 ms
-[1669933666.337917] 64 bytes from 192.168.12.1: icmp_seq=7 ttl=64 time=0.545 ms
-[1669933667.361997] 64 bytes from 192.168.12.1: icmp_seq=8 ttl=64 time=0.617 ms
-[1669933668.385989] 64 bytes from 192.168.12.1: icmp_seq=9 ttl=64 time=0.638 ms
-[1669933669.410029] 64 bytes from 192.168.12.1: icmp_seq=10 ttl=64 time=0.655 ms
-[1669933670.434008] 64 bytes from 192.168.12.1: icmp_seq=11 ttl=64 time=0.628 ms
-[1669933671.458022] 64 bytes from 192.168.12.1: icmp_seq=12 ttl=64 time=0.638 ms
-[1669933672.482204] 64 bytes from 192.168.12.1: icmp_seq=13 ttl=64 time=0.831 ms
-[1669933673.506247] 64 bytes from 192.168.12.1: icmp_seq=14 ttl=64 time=0.847 ms
-[1669933674.530149] 64 bytes from 192.168.12.1: icmp_seq=15 ttl=64 time=0.778 ms
-[1669933675.553974] 64 bytes from 192.168.12.1: icmp_seq=16 ttl=64 time=0.630 ms
-[1669933676.578092] 64 bytes from 192.168.12.1: icmp_seq=17 ttl=64 time=0.752 ms
-[1669933677.602077] 64 bytes from 192.168.12.1: icmp_seq=18 ttl=64 time=0.730 ms
-[1669933678.626113] 64 bytes from 192.168.12.1: icmp_seq=19 ttl=64 time=0.773 ms
-[1669933679.650253] 64 bytes from 192.168.12.1: icmp_seq=20 ttl=64 time=0.913 ms
+[1669933959.649393] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
+[1669933959.649465] From 192.168.12.133 icmp_seq=2 Destination Host Unreachable
+[1669933959.649490] From 192.168.12.133 icmp_seq=3 Destination Host Unreachable
+[1669933962.721414] From 192.168.12.133 icmp_seq=4 Destination Host Unreachable
+[1669933962.721456] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
+[1669933962.721467] From 192.168.12.133 icmp_seq=6 Destination Host Unreachable
+[1669933965.793406] From 192.168.12.133 icmp_seq=7 Destination Host Unreachable
+[1669933968.865379] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
+[1669933971.937356] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
+[1669933975.009385] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
+[1669933978.081359] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 192.168.12.1 ping statistics ---
-20 packets transmitted, 20 received, 0% packet loss, time 19443ms
-rtt min/avg/max/mdev = 0.545/0.729/0.913/0.106 ms
+20 packets transmitted, 0 received, +11 errors, 100% packet loss, time 19444ms
+pipe 4

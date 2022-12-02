@@ -1,14 +1,17 @@
 
 
-Thursday, December 1, 2022 9:00:19 PM
+Thursday, December 1, 2022 9:05:43 PM
 
 PING 9.9.9.9 (9.9.9.9) 56(84) bytes of data.
-[1669953623.073358] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
-[1669953626.145371] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
-[1669953632.289338] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
-[1669953635.361410] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
-[1669953641.505406] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
+[1669953946.209368] From 192.168.12.133 icmp_seq=1 Destination Host Unreachable
+[1669953949.281356] From 192.168.12.133 icmp_seq=5 Destination Host Unreachable
+[1669953955.425343] From 192.168.12.133 icmp_seq=11 Destination Host Unreachable
+[1669953955.425383] From 192.168.12.133 icmp_seq=12 Destination Host Unreachable
+[1669953958.497358] From 192.168.12.133 icmp_seq=14 Destination Host Unreachable
+[1669953961.569368] From 192.168.12.133 icmp_seq=17 Destination Host Unreachable
+[1669953961.569398] From 192.168.12.133 icmp_seq=18 Destination Host Unreachable
+[1669953964.641406] From 192.168.12.133 icmp_seq=20 Destination Host Unreachable
 
 --- 9.9.9.9 ping statistics ---
-20 packets transmitted, 0 received, +5 errors, 100% packet loss, time 19493ms
+20 packets transmitted, 0 received, +8 errors, 100% packet loss, time 19492ms
 pipe 4

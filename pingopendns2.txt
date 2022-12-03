@@ -1,29 +1,31 @@
-435
+436
 
-Saturday, December 3, 2022 9:38:53 AM
+Saturday, December 3, 2022 9:53:56 AM
 
 
-Pinging 208.67.220.220 with 435 bytes of data:
+Pinging 208.67.220.220 with 436 bytes of data:
+Request timed out.
+Request timed out.
+Reply from 192.168.12.1: Destination net unreachable.
+Reply from 192.168.12.1: Destination net unreachable.
+Reply from 192.168.12.1: Destination net unreachable.
+Request timed out.
+Request timed out.
+Reply from 192.168.12.1: Destination net unreachable.
+Reply from 192.168.12.1: Destination net unreachable.
+Reply from 192.168.12.1: Destination net unreachable.
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 208.67.220.220: bytes=436 time=136ms TTL=52
+Reply from 208.67.220.220: bytes=436 time=123ms TTL=52
+Reply from 208.67.220.220: bytes=436 time=372ms TTL=52
+Reply from 208.67.220.220: bytes=436 time=35ms TTL=52
+Reply from 208.67.220.220: bytes=436 time=67ms TTL=52
+Reply from 208.67.220.220: bytes=436 time=87ms TTL=52
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 35ms, Maximum = 372ms, Average = 136ms

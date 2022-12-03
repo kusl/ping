@@ -1,10 +1,9 @@
-435
+436
 
-Saturday, December 3, 2022 9:36:46 AM
+Saturday, December 3, 2022 9:51:05 AM
 
 
-Pinging 149.112.112.112 with 435 bytes of data:
-Reply from 149.112.112.112: bytes=435 time=2496ms TTL=55
+Pinging 149.112.112.112 with 436 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
@@ -16,16 +15,15 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 192.168.12.206: Destination host unreachable.
+Reply from 192.168.12.206: Destination host unreachable.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 192.168.12.206: Destination host unreachable.
 Request timed out.
 Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=435 time=3856ms TTL=55
 Request timed out.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 2496ms, Maximum = 3856ms, Average = 3176ms
+    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),

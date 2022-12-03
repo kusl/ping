@@ -1,29 +1,31 @@
-436
+437
 
-Saturday, December 3, 2022 9:49:26 AM
+Saturday, December 3, 2022 9:57:58 AM
 
 
-Pinging 9.9.9.9 with 436 bytes of data:
+Pinging 9.9.9.9 with 437 bytes of data:
+Reply from 9.9.9.9: bytes=437 time=149ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=256ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=525ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=542ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=878ms TTL=55
 Request timed out.
+Reply from 9.9.9.9: bytes=437 time=1109ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=1998ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=1701ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=1806ms TTL=55
 Request timed out.
+Reply from 9.9.9.9: bytes=437 time=3697ms TTL=55
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 9.9.9.9: bytes=437 time=2729ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=1823ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=2882ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=3433ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=2666ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=1575ms TTL=55
+Reply from 9.9.9.9: bytes=437 time=1415ms TTL=55
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 149ms, Maximum = 3697ms, Average = 1716ms

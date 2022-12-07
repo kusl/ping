@@ -1,22 +1,22 @@
-52
+53
 
-Tuesday, December 6, 2022 6:40:22 PM
+Tuesday, December 6, 2022 6:44:33 PM
 
 
-Pinging 9.9.9.9 with 52 bytes of data:
-Reply from 9.9.9.9: bytes=52 time=22ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=21ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=12ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=16ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=17ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=14ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=33ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=14ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=19ms TTL=55
-Reply from 9.9.9.9: bytes=52 time=12ms TTL=55
-General failure.
-General failure.
-General failure.
+Pinging 9.9.9.9 with 53 bytes of data:
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
 PING: transmit failed. General failure. 
@@ -26,6 +26,4 @@ PING: transmit failed. General failure.
 PING: transmit failed. General failure. 
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 33ms, Average = 18ms
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),

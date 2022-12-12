@@ -1,29 +1,31 @@
-1209
+1210
 
-Monday, December 12, 2022 2:48:28 AM
+Monday, December 12, 2022 2:55:11 AM
 
 
-Pinging 1.1.1.1 with 1209 bytes of data:
-Request timed out.
-Reply from 192.168.1.1: Destination net unreachable.
-Reply from 192.168.1.1: Destination net unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.1.1: Destination net unreachable.
-Reply from 192.168.1.1: Destination net unreachable.
-Request timed out.
-Request timed out.
-Reply from 192.168.1.1: Destination net unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging 1.1.1.1 with 1210 bytes of data:
+Reply from 1.1.1.1: bytes=1210 time=15ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=11ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=11ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=14ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=13ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=11ms TTL=54
+Reply from 1.1.1.1: bytes=1210 time=12ms TTL=54
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 11ms, Maximum = 15ms, Average = 12ms
